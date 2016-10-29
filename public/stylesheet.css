@@ -1,0 +1,284 @@
+#bottom{
+	width: 70px;
+	margin: auto;
+    margin-bottom: 5px;
+	clear: both;
+}
+
+#center{
+    text-align: center;
+}
+
+#dept{
+    width: 642px;
+}
+
+#edit{
+	border-bottom-left-radius: 10px;
+    padding: 4px 0px;
+}
+
+#full{
+    border-bottom-right-radius: 10px;
+    padding: 4px 0px;
+}
+
+#header{
+	top: 0;
+	left: 50%;
+	margin-left: -350px;
+	z-index: 2;
+	position: fixed;
+	height: 60px;
+	width: 700px;
+	margin-top: -4px;
+	margin-bottom: 10px;
+	border-left: 1px solid black;
+	border-bottom: 2px solid black;
+	border-radius: 10px;
+    text-align: center;
+}
+
+#header div{
+    list-style: none;
+    float: left;
+    font-size: 22px;
+    font-weight: bold;
+    width: 25%;
+	
+}
+
+#header2{
+	top: 0;
+	left: 50%;
+	margin-left: -300px;
+	z-index: 1;
+	position: fixed;
+	height: 40px;
+	width: 600px;
+	margin-top: 52px;
+	margin-bottom: 10px;
+	border-left: 1px solid black;
+	border-bottom: 2px solid black;
+	border-radius: 10px;
+    text-align: center;
+}
+
+#header2 div{
+    list-style: none;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    width: 25%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -10px;  
+}
+
+#header3{
+	top: 0;
+	left: 50%;
+	margin-left: -150px;
+	z-index: 1;
+	position: fixed;
+	height: 40px;
+	width: 300px;
+	margin-top: 52px;
+	margin-bottom: 10px;
+	border-left: 1px solid black;
+	border-bottom: 2px solid black;
+	border-radius: 10px;
+    text-align: center;
+}
+
+#header3 div{
+    list-style: none;
+    float: left;
+    font-size: 20px;
+    font-weight: bold;
+    width: 50%;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-top: -10px;  
+}
+
+#header3 #user{
+    border-bottom-right-radius: 10px;
+}
+
+#help{
+	width: 90%;
+	height: auto;
+    padding: 8px;
+}
+
+#history{
+    padding: 4px 0px;
+}
+
+#ldiv{
+	border-bottom-left-radius: 10px;
+}
+
+#rdiv{
+    border-bottom-right-radius: 10px;
+}
+
+#result{
+	border-bottom-left-radius: 10px;
+    padding: 4px 0px;
+}
+
+#results{
+    width: auto;
+    height: auto;
+    display: inline-block;
+    padding: 8px;
+}
+
+#search_p{
+    text-align: center;
+    font-style: italic;
+}
+
+#u{
+    text-decoration: underline;
+    background-color: yellow;
+}
+
+#update{
+    height: 190px;
+}
+
+#update #bottom{
+    width: 4em;
+}
+
+#update input{
+    width: 95%;
+}
+
+#update_p{
+    text-align: center;
+    font-weight: bold;
+    font-size: 1.2em;
+}
+
+#updated{
+    padding: 8px;
+}
+
+#user{
+    padding: 4px 0px;
+}
+
+.button{
+    background-color: #ffd0d0;
+    padding: 17px 0px;
+    width: 100%;
+}
+
+.clickable:hover{
+    background-color: #DBEADC;
+}
+
+.complete{
+    text-align: center;
+    font-size: 2em;
+    height: 100%;
+}
+
+.left{
+	position: relative;
+	margin-left: 20px;
+	width: 45%;
+	float: left;
+}
+
+.mid{
+	height: auto;
+	width: 700px;
+	margin: 3% auto;
+	clear: both;
+	background-color: white;
+	border: 2px solid black;
+	border-radius: 10px;
+}
+
+.mid form{
+	margin-left: 10px;
+	margin-top: 10px;
+	font-family: Garamond, sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+.mid input{
+    margin-bottom: .3em;
+}
+
+.right{
+	position: relative;
+	width: 40%;
+	float: right;
+}
+
+.selected{
+    background-color: darkseagreen !important;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+body{
+	background-color: #BCD2EE;
+}
+
+caption{
+	font-size: 1.4em;
+	font-weight: bold;
+	margin-bottom: .2em;
+	margin-top: 15	px;
+}
+
+h1{
+	position: relative;
+	text-align: center;
+}
+
+h2{
+	position: relative;
+	text-align: center;
+    text-decoration: underline;
+}
+
+input{
+	font-size: 20px;
+}
+
+select{
+	font-size: 16px;
+}
+
+textarea{
+    width: 640px;
+}
+
+thead{
+    background: lightgray;
+    font-weight: bold;
+    padding-left: 3px;
+    padding-right: 3px;
+    text-align: center;
+}
+
+tr{ 
+    page-break-after: always;
+    page-break-inside: avoid;
+}
+
+
+
+/* End of file */

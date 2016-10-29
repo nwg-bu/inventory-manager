@@ -1,0 +1,823 @@
+Bios Serial Number	User	Name	Os Name	Asset Notes	Last Inventory	Cs Manufacturer	Cs Model	Last User	Warranty Start	Warranty End	Assigned To	Function	Floor	Room
+														
+R9GZ605	qstcloud	QST-WL-0069	Microsoft Windows 7 Enterprise x64	340	9/30/2016 14:13	LENOVO	4243VKK	AD\qstcloud	10/21/2011 0:00	10/20/2015 0:00	cbarrett	Loaner		340
+R9Z52D1	qstcloud	QST-WL-0064	Microsoft Windows 7 Enterprise x64	340	10/1/2016 10:26	LENOVO	2355BE3	AD\qstcloud	6/9/2013 0:00	6/8/2017 0:00	cbarrett	Loaner		340
+MJ45F5Y	user	SMG675	Microsoft Windows 7 Enterprise x64		7/29/2016 13:36	LENOVO	3212BJ7	SMG675\user	8/1/2013 0:00	7/21/2017 0:00	joglekar	Primary		
+2UA8291Q1R	jkimjr	SMG643-1	Microsoft Windows 7 Professional		9/11/2016 18:08	Hewlett-Packard	HP xw4600 Workstation	SMG643-1\istds-admin	7/23/2008 0:00	8/26/2013 0:00	jkimjr	Primary		
+MJWZXE3	mdmeng	SMG143BSRB01	Microsoft Windows 7 Enterprise x64	143 Bay State - Basement	10/1/2016 19:03	LENOVO	4524A61	AD\mdmeng	6/16/2011 0:00	6/15/2015 0:00	tturrisi	Primary		143 Bay State - Basement
+9SZZQF1	dmolt	SMG515B	Microsoft Windows 7 Enterprise x64		8/29/2016 9:50	Dell Inc.	OptiPlex 755	AD\dmolt	2/27/2009 0:00	2/27/2013 0:00	dicocco	Shared		
+MJ45F6A	kjhatten	SMG621-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:24	LENOVO	3212BJ7	AD\kjhatten	8/1/2013 0:00	7/21/2017 0:00	kjhatten	Primary		
+MJ762BD	lbonney	QST-WD-0052	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:13	LENOVO	36901K3	AD\vsung	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJAPNNA	qstblab	QST-BSR-WD-0003	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:16	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJDCPGT	oslavin	QST-WD-0360	Microsoft Windows 7 Professional x64		9/30/2016 14:40	LENOVO	4524WED	AD\oslavin	11/7/2011 0:00	10/27/2015 0:00	dwebb	Primary		
+MJAPNMG	qstblab	QST-BSR-WD-0007	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:17	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJAPNMV	qstblab	QST-BSR-WD-0001	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 19:58	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJAPNMX	qstblab	QST-BSR-WD-0008	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 18:57	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJWZXD7	robertsm	SMG527	Microsoft Windows 7 Professional x64		8/25/2015 12:53	LENOVO	4524A61	AD\robertsm	6/16/2011 0:00	6/15/2015 0:00	robertsm	Primary		
+MJAPNMZ	qstblab	QST-BSR-WD-0013	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:42	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJAPNMW	qstblab	QST-BSR-WD-0011	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:53	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+2UA10704RP	peggyw	SMG629-5	Microsoft Windows 7 Professional x64		10/1/2016 18:27	Hewlett-Packard	HP Z200 Workstation	AD\peggyw	2/15/2011 0:00	2/14/2016 0:00	peggyw	Primary		
+MJ27L23	seaholm	SMG630E-1	Microsoft Windows 7 Professional x64		5/13/2016 1:14	LENOVO	36901K3	AD\seaholm	6/18/2013 0:00	6/7/2017 0:00	seaholm	Primary		
+MJ762CW	dnebbia	QST-WD-0045	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:19	LENOVO	36901K3	AD\cindyim	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ46M22	qstla	QST-WD-0037	Microsoft Windows 7 Professional x64	333	10/1/2016 18:22	LENOVO	36901K3	AD\qstla	6/21/2013 0:00	6/10/2017 0:00	gdefronz	shared		333
+MJYVGC1	istds-admin	SMG543-5	Microsoft Windows 7 Professional x64		7/29/2015 9:23	LENOVO	4524A61	SMG543-5\istds-admin	6/30/2011 0:00	6/29/2015 0:00	kgriner	Primary		
+2UA8291Q31	lveidenh	SMG644A-1	Microsoft Windows 7 Professional		9/15/2016 9:59	Hewlett-Packard	HP xw4600 Workstation	AD\lveidenh	7/23/2008 0:00	8/26/2013 0:00	earlride	Primary		
+MJ46M23	qstla	QST-WD-0038	Microsoft Windows 7 Professional x64	333	10/1/2016 19:21	LENOVO	36901K3	AD\qstla	6/21/2013 0:00	6/10/2017 0:00	gdefronz	shared		333
+MJ761ZG	maehood	QST-WD-0059	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:46	LENOVO	36901K3	AD\dgenkin	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ762AX	jacobom	QST-WD-0057	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:45	LENOVO	36901K3	AD\ttchz	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+2UA8291Q1F	davweil	SMG520A-1	Microsoft Windows 7 Enterprise x64		8/31/2015 9:37	Hewlett-Packard	HP xw4600 Workstation	AD\davweil	7/23/2008 0:00	8/26/2013 0:00	davweil	Primary		
+MJAPNMN	qstblab	QST-BSR-WD-0015	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:27	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJZRBCW	camphil	SMG504A-2	Microsoft Windows 7 Enterprise x64		10/1/2016 18:00	LENOVO	3212BJ7	AD\camphil	1/21/2013 0:00	1/11/2017 0:00	camphil	Primary	This desktop was moved from room 502D (SMG502D)	
+MJ761ZV	Ali1	QST-WD-0341	Microsoft Windows 10 Enterprise x64	342	10/1/2016 19:11	LENOVO	36901K3	AD\Ali1	5/26/2013 0:00	5/15/2017 0:00	ali1	Primary		342
+MJRALKD	akarpovs	SMG548E-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:35	LENOVO	4223CTO	AD\akarpovs	11/30/-001 00:00:00	11/30/-001 00:00:00	anamini	Primary		
+MJ762AK	sbrankov	QST-WD-0009	Microsoft Windows 7 Professional x64	636A	7/17/2015 8:57	LENOVO	36901K3	AD\sbrankov	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+2UA0300PQY	mlynd	QST-WD-0313	Microsoft Windows 7 Enterprise x64	630 D	12/21/2015 7:36	Hewlett-Packard	HP Z600 Workstation	AD\mlynd	7/29/2010 0:00	7/28/2015 0:00	gdefronz	Shared		630 D
+MJ761XV	mattreis	QST-WD-0310	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:53	LENOVO	36901K3	AD\mattreis	5/25/2013 0:00	5/14/2017 0:00	gdefronz	Computer Lab		328
+2UA8291Q2P	smgarws	QST-WD-0234	Microsoft Windows 7 Professional	504	10/1/2016 18:37	Hewlett-Packard	HP xw4600 Workstation	AD\smgdnows	7/23/2008 0:00	8/26/2013 0:00	mbda	Shared		504
+MJ761ZH	kmatth	QST-WD-0054	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:37	LENOVO	36901K3	AD\jaeda	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ99T9T	qstblab	QST-BSR-WD-0014	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 19:48	LENOVO	2756B53	AD\qstblab	9/1/2013 0:00	8/21/2017 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJ761ZW	nahar93	QST-WD-0046	Microsoft Windows 7 Professional x64	636 A	12/18/2015 6:37	LENOVO	36901K3	AD\htran93	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636 A
+C02KMGBTDNCR	istds-admin	qst-md-0100	Mac OS X 10.11.5 (x86_64)	342	9/14/2016 17:27	"Apple, Inc."	"iMac13,1"		6/14/2013 0:00	6/13/2016 0:00	tturrisi	Primary		342
+MJBBTPP	smgelcws	SMG416E-1	Microsoft Windows 7 Professional x64	416 E	6/18/2015 9:06	LENOVO	4524A61	AD\smgelcws	8/25/2011 0:00	8/24/2015 0:00	dwebb	Shared		416 E
+MJZRBCV	gdefronz	SMG636A-1	Microsoft Windows 7 Enterprise x64		4/14/2016 2:19	LENOVO	3212BJ7	AD\gdefronz	1/21/2013 0:00	1/11/2017 0:00	gdefronz	Primary		
+MJ762AM	monaz	QST-WD-0333	Microsoft Windows 7 Enterprise x64	636A	10/1/2016 18:26	LENOVO	36901K3	AD\monaz	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+2UA0461C0S	smgelcws	SMG416S-2	Microsoft Windows 7 Professional	342	6/5/2015 9:38	Hewlett-Packard	HP Z200 Workstation	AD\smgelcws	11/22/2010 0:00	1/20/2016 0:00	dwebb	Reserve		342
+2UA8300Z24	sechrest	QST-WD-0241	Microsoft Windows 7 Professional	343 A	7/24/2015 1:12	Hewlett-Packard	HP xw4600 Workstation	AD\sechrest	7/27/2008 0:00	8/2/2014 0:00	nelee	Shared		343 A
+MJ761YG	jkissh	QST-WD-0346	Microsoft Windows 10 Enterprise x64	629	10/1/2016 18:20	LENOVO	36901K3	AD\jkissh	5/26/2013 0:00	5/15/2017 0:00	jkissh	Secondary		629
+MJ762BY	kbdoran	QST-WD-0062	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:20	LENOVO	36901K3	AD\rbazaz	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ3849F	istds-admin	SMG607	Microsoft Windows 7 Enterprise x64		5/9/2016 12:17	LENOVO	3212BJ7	SMG607\istds-admin	2/16/2013 0:00	2/6/2017 0:00	pekoz	Primary		
+MJXAAR9	jhorwitt	53BSR107	Microsoft Windows 7 Professional x64	107	9/30/2016 18:08	LENOVO	4524A61	AD\jhorwitt	6/16/2011 0:00	6/15/2015 0:00	jhorwitt	Primary		107
+MJ761ZZ	quangle	QST-WD-0061	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:46	LENOVO	36901K3	AD\quangle	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJAPNMM	qstblab	QST-BSR-WD-0016	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:41	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJ761YE	hhchiang	QST-WD-0255	Microsoft Windows 10 Enterprise x64	541	8/18/2016 9:13	LENOVO	36901K3	AD\hhchiang	5/26/2013 0:00	5/15/2017 0:00	camphil	Shared		541
+2UA0390VFN	rprieto	SMG566	Microsoft Windows 7 Professional x64		10/1/2016 18:59	Hewlett-Packard	HP Z200 Workstation	AD\rprieto	10/1/2014 0:00	9/30/2013 0:00	rprieto	Primary		
+MJ02KCN	cbarrett	SMG333A-1	Microsoft Windows 7 Professional x64		10/1/2016 19:22	LENOVO	36901K3	AD\cbarrett	11/10/2013 0:00	10/30/2017 0:00	cbarrett	Primary		
+2UA8500SXZ	firefox-adm	PC-TEST-1	Microsoft Windows 7 Professional x64		7/19/2016 12:42	Hewlett-Packard	HP xw4600 Workstation	QAD\firefox-adm	12/12/2008 0:00	1/5/2014 0:00	firefox	Secondary		
+MJAPNMR	qstblab	QST-BSR-WD-0010	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:31	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJ49E1V	salinger	QST-WD-0305	Microsoft Windows 7 Enterprise x64		10/1/2016 19:27	LENOVO	3212BJ7	AD\salinger	8/3/2013 0:00	7/23/2017 0:00	salinger	Primary		
+MJ762CP	burgener	QST-WD-0056	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:36	LENOVO	36901K3	AD\dkoswick	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ762BE	rbaird8	QST-WD-0363	Microsoft Windows 10 Enterprise x64	504	7/7/2016 15:26	LENOVO	36901K3	AD\rbaird8	5/26/2013 0:00	5/15/2017 0:00	rbaird8	Primary		504
+MJ08Z97	ali1	QST-WD-0219	Microsoft Windows 7 Enterprise x64	342	3/22/2016 9:03	LENOVO	3212BJ7	AD\ali1	6/9/2013 0:00	5/29/2017 0:00	gdefronz	Reserve		342
+MJ762CK	dlbedard	QST-WD-0306	Microsoft Windows 7 Enterprise x64	543	10/1/2016 19:51	LENOVO	36901K3	AD\dlbedard	5/26/2013 0:00	5/15/2017 0:00	camphil	Shared		543
+MJ761ZN	mdc	QST-WD-0025	Microsoft Windows 7 Professional x64	636A	7/20/2015 11:34	LENOVO	36901K3	AD\mdc	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ762BC	efk	QST-WD-0318	Microsoft Windows 7 Enterprise x64	629	3/18/2016 10:30	LENOVO	36901K3	AD\efk	5/26/2013 0:00	5/15/2017 0:00	efk	Secondary		629
+MJ761ZM	gdefronz	QST-WD-0182	Microsoft Windows 10 Enterprise x64	340E	10/1/2016 19:54	LENOVO	36901K3	AD\gdefronz	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Shared		340E
+MJ762CH	phung1	QST-WD-0055	Microsoft Windows 7 Professional x64	636A	12/18/2015 6:19	LENOVO	36901K3	AD\phung1	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJAPNMT	qstblab	QST-BSR-WD-0012	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 18:49	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJAPNMY	qstblab	QST-BSR-WD-0002	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:44	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+2UA8291Q1Z	delakel	QST-WD-0235	Microsoft Windows 7 Professional	Room 504	10/1/2016 18:41	Hewlett-Packard	HP xw4600 Workstation	AD\delakel	7/23/2008 0:00	8/26/2013 0:00	mbda	Shared		Room 504
+3RZZQF1	smgobdws	SMG626-1	Microsoft Windows 7 Professional	626	10/1/2016 18:20	Dell Inc.	OptiPlex 755	AD\rnichols	2/27/2009 0:00	2/27/2013 0:00	mcpereir	Shared		626
+2UA8500SXR	kmenon	SMG518H-1	Microsoft Windows 7 Professional		10/1/2016 18:29	Hewlett-Packard	HP xw4600 Workstation	AD\kmenon	12/12/2008 0:00	1/5/2014 0:00	kmenon	Primary		
+MJAPNMK	qstblab	QST-BSR-WD-0006	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:17	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+PK0P9RZ	qstblab	QST-BSR-WL-0004	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 18:16	LENOVO	2355BE3	AD\qstblab	8/27/2013 0:00	8/26/2017 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJ761YT	mdc	QST-WD-0024	Microsoft Windows 7 Professional x64	328	7/20/2015 10:15	LENOVO	36901K3	AD\mdc	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		328
+PK0P9VL	qstblab	QST-BSR-WL-0001	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 19:13	LENOVO	2355BE3	AD\qstblab	8/27/2013 0:00	8/26/2017 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJWZXE2	halford	QST-WD-0237	Microsoft Windows 7 Professional x64	627	8/27/2015 10:40	LENOVO	4524A61	AD\halford	6/16/2011 0:00	6/15/2015 0:00	halford	Primary		627
+MJZRBCT	cmnigro	QST-WD-0284	Microsoft Windows 7 Enterprise x64		5/17/2016 9:41	LENOVO	3212BJ7	AD\cmnigro	1/21/2013 0:00	1/11/2017 0:00	cmnigro	Primary		
+MJYWGX5	menezes	SMG617	Microsoft Windows 7 Professional x64		10/1/2016 19:55	LENOVO	4524A61	AD\menezes	7/2/2011 0:00	7/1/2015 0:00	menezes	Primary		
+MJAPNML	qstblab	QST-BSR-WD-0004	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:46	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJAPNNB	qstblab	QST-BSR-WD-0005	Microsoft Windows 7 Professional x64	143 Bay  State Road - Basement	10/1/2016 19:10	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+2UA05023K0	carla	SMG629-1	Microsoft Windows 7 Professional x64		10/1/2016 19:34	Hewlett-Packard	HP Z200 Workstation	AD\carla	12/21/2010 0:00	1/24/2016 0:00	caguilar	Primary		
+MJ762CE	awaye	QST-WD-0044	Microsoft Windows 7 Professional x64	636 A	12/18/2015 6:46	LENOVO	36901K3	AD\hsk29	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636 A
+FQZZQF1	smgfedws	SMG520F-1	Microsoft Windows 7 Professional	520 F	10/1/2016 18:29	Dell Inc.	OptiPlex 755	AD\smgfedws	2/27/2009 0:00	2/27/2013 0:00	jmcgill	Shared		520 F
+1807PC1	jovied	SMG630A-3	Microsoft Windows 8.1 Pro		9/22/2015 14:59	Dell Inc.	OptiPlex 745	AD\mlynd	3/14/2008 0:00	3/15/2011 0:00	firefox	Secondary		
+2UA0350JM5	guinther	SMG638A-4	Microsoft Windows 7 Professional		4/23/2016 10:12	Hewlett-Packard	HP Z200 Workstation	AD\guinther	12/21/2010 0:00	1/24/2016 0:00	jovied	Primary		
+8J9KLF1	ren	SMG655-4	Microsoft Windows 7 Professional	655	2/11/2016 0:19	Dell Inc.	OptiPlex 755	AD\ren	2/7/2009 0:00	2/7/2013 0:00	ren	Secondary		655
+MJ761YL	qstcloud	SMG630A-2	Microsoft Windows 7 Professional x64	328	10/1/2016 19:17	LENOVO	36901K3	AD\qstcloud	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Computer Lab		328
+2UA1191C57	jhibbard	QST-WD-0238	Microsoft Windows 7 Professional x64	Room 602	10/1/2016 18:01	Hewlett-Packard	HP Z200 Workstation	AD\jhibbard	5/13/2011 0:00	6/16/2016 0:00	jhibbard	Primary		Room 602
+C02KGP61DNCV	mbda	SMG504GMAC-1	Mac macOS 10.12 (x86_64)	504G	10/1/2016 16:22	"Apple, Inc."	"iMac13,2"		6/28/2013 0:00	6/27/2016 0:00	mbda	Primary		504G
+2UA8291Q2V	mdmeng	SMG664-4	Microsoft Windows 7 Professional	644	8/18/2016 16:20	Hewlett-Packard	HP xw4600 Workstation	AD\mdmeng	7/23/2008 0:00	8/26/2013 0:00	bickart	Shared		644
+2UA8500SXP	mva	SMG649	Microsoft Windows 7 Professional		10/1/2016 18:11	Hewlett-Packard	HP xw4600 Workstation	AD\mva	12/12/2008 0:00	1/5/2014 0:00	mva	Primary		
+MJXAAT0	wshpr	53BSR211	Microsoft Windows 7 Professional x64	211	9/20/2016 15:45	LENOVO	4524A61	AD\wshpr	6/16/2011 0:00	6/15/2015 0:00	abcohen	Shared		211
+MJTMZGX	abello	QST-WD-0250	Microsoft Windows 7 Professional x64	133	11/16/2015 12:10	LENOVO	3212AV7	QST-WD-0250\istds-admin	9/17/2012 0:00	9/7/2016 0:00	abello	Secondary		133
+MJYWGX6	mmacgarv	SMG518B	Microsoft Windows 7 Professional x64		10/1/2016 18:56	LENOVO	4524A61	AD\mmacgarv	7/2/2011 0:00	7/1/2015 0:00	mmacgarv	Primary		
+R9KPYMC	qstcloud	QST-WL-0052	Microsoft Windows 7 Enterprise x64	340 E	9/30/2016 13:25	LENOVO	4243VKK	AD\qstcloud	12/31/2011 0:00	12/30/2015 0:00	cbarrett	Loaner		340 E
+MJAHCAG	ccullati	SMG502B-1	Microsoft Windows 7 Professional x64		9/30/2016 17:13	LENOVO	4158VG3	AD\ccullati	8/13/2011 0:00	8/12/2015 0:00	ccullati	Primary		
+C02L428KF6T6	nelee	SMG343AMACLT-1	Mac OS X 10.11.4 (x86_64)		10/1/2016 15:37	"Apple, Inc."	"MacBookAir6,2"		7/24/2013 0:00	7/23/2016 0:00	nelee	Primary		
+2UA05023JY	efk	SMG629-9	Microsoft Windows 7 Professional x64		9/30/2016 16:50	Hewlett-Packard	HP Z200 Workstation	AD\efk	12/21/2010 0:00	1/24/2016 0:00	efk	Primary		
+2CE930BCRN	williams	SMG572LT-2	Microsoft Windows 7 Professional		7/18/2016 13:55	Hewlett-Packard	HP EliteBook 6930p	AD\williams	8/4/2014 0:00	8/10/2013 0:00	williams	Secondary		
+R8M3YZG	smguser	SMGLOANERLT-10	Microsoft Windows 7 Professional x64	340	5/3/2015 18:52	LENOVO	4236GG9	AD\smguser	7/10/2011 0:00	7/9/2015 0:00	cbarrett	loaner		340
+MJPBXNE	questromgpows	QST-WD-0268	Microsoft Windows 7 Enterprise x64	104	11/16/2015 15:11	LENOVO	4524AY5	AD\questromgpows	7/5/2012 0:00	6/25/2016 0:00	normanb	Shared		104
+D25Q51HGFY11	edasi	QST-MD-0109	Mac OS X 10.11.6 (x86_64)	510D	9/30/2016 15:24	"Apple, Inc."	"iMac15,1"		4/8/2011 0:00	4/7/2014 0:00	tvellner	Primary		510D
+2UA1020JLH	rbaird8	SMG553-1	Microsoft Windows 7 Professional		7/5/2016 14:38	Hewlett-Packard	HP Z200 Workstation	AD\rbaird8	1/13/2011 0:00	2/11/2016 0:00	rbaird8	Secondary		
+MJWZXEO	conroyrm	SMG630D-3	Microsoft Windows 8 Enterprise x64	630 D	10/1/2016 19:58	LENOVO	4524A61	AD\conroyrm	6/6/2011 0:00	6/15/2015 0:00	gdefronz	Shared		630 D
+R8M3YZF	smgcloud	SMGLOANERLT-14	Microsoft Windows 7 Enterprise x64	340	7/7/2015 15:31	LENOVO	4236GG9	AD\smgcloud	7/10/2011 0:00	7/9/2015 0:00	cbarrett	Loaner		340
+MJPBXMZ	ali1	SMG616A-1	Microsoft Windows 7 Enterprise x64		8/27/2015 14:45	LENOVO	4524AY5	AD\ali1	7/5/2012 0:00	6/25/2016 0:00	rcovino	Reserve		
+C02KVFLZF6T6	mbda	QST-ML-0220	Mac OS X 10.11.6 (x86_64)		9/5/2016 14:25	"Apple, Inc."	"MacBookAir6,2"		6/30/2013 0:00	6/29/2016 0:00	mbda	Secondary		
+R9PD3AW	smgcloud	SMGLOANERLT-24	Microsoft Windows 7 Enterprise x64	340	9/7/2015 22:16	LENOVO	4174GD4	AD\smgcloud	6/21/2012 0:00	6/11/2016 0:00	cbarrett	Loaner		340
+LR1H5RE	kesslerr	SMG326LT-42	Microsoft Windows 7 Professional x64	340 E	3/2/2016 3:14	LENOVO	05962RU	AD\kesslerr	11/30/2011 0:00	11/29/2012 0:00	cbarrett	Loaner		340 E
+MJAPNMP	qstblab	QST-BSR-WD-0009	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 18:05	LENOVO	5032A47	AD\qstblab	8/17/2011 0:00	8/16/2015 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+PK0P9T2	qstblab	QST-BSR-WL-0003	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 18:42	LENOVO	2355BE3	AD\qstblab	8/27/2013 0:00	8/26/2017 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+D25FN0U9DHJV	istds-admin	QST-MD-0004	Mac OS X 10.11.6 (x86_64)	509	10/1/2016 19:38	"Apple, Inc."	"iMac12,2"		5/6/2011 0:00	5/5/2014 0:00	gdefronz	Shared		509
+MJ49E1M	munsell	SMG642-1	Microsoft Windows 7 Enterprise x64		9/30/2016 15:58	LENOVO	3212BJ7	AD\munsell	8/3/2013 0:00	7/23/2017 0:00	munsell	Primary		
+2UA8291Q32	sogut	SMG664-1	Microsoft Windows 7 Enterprise x64	644	9/22/2016 20:21	Hewlett-Packard	HP xw4600 Workstation	AD\sogut	7/23/2008 0:00	8/26/2013 0:00	bickart	Shared		644
+MJRLVLT	dkurt	SMG611-1	Microsoft Windows 7 Professional x64		10/1/2016 18:20	LENOVO	3212AV7	AD\dkurt	8/21/2012 0:00	8/11/2016 0:00	dkurt	Primary		
+PK0CP7M	qstcloud	SMGLOANERLT-26	Microsoft Windows 7 Enterprise x64	340	9/30/2016 22:25	LENOVO	2355BE3	AD\qstcloud	8/12/2013 0:00	8/11/2017 0:00	cbarrett	Loaner		340
+2CE930BCRP	jhibbard	QST-WL-0061	Microsoft Windows 7 Professional x64	340 E	12/15/2015 9:59	Hewlett-Packard	HP EliteBook 6930p	AD\jhibbard	8/4/2014 0:00	8/10/2013 0:00	cbarrett	Loaner		340 E
+R9F4355	qstcloud	QST-WL-0049	Microsoft Windows 7 Professional x64	340 E	5/10/2016 0:16	LENOVO	4243C13	AD\qstcloud	7/29/2011 0:00	8/7/2015 0:00	cbarrett	Loaner		340 E
+R8M3YZD	qstcloud	SMGLOANERLT-11	Microsoft Windows 7 Professional x64	340	7/14/2016 10:08	LENOVO	4236GG9	AD\qstcloud	7/10/2011 0:00	7/9/2015 0:00	cbarrett	Loaner		340
+2UA05023JV	Steve	SMG629-10	Microsoft Windows 8.1 Pro x64		10/16/2015 14:40	Hewlett-Packard	HP Z200 Workstation	SMG629-10\Steve	12/21/2010 0:00	1/24/2016 0:00	stevexyc	Primary		
+R9PDDV6	smguser	SMGLOANERLT-20	Microsoft Windows 7 Enterprise x64	340	9/23/2016 16:55	LENOVO	4243FW3	AD\smguser	6/10/2012 0:00	6/10/2016 0:00	cbarrett	Loaner		340
+MJ86WT7	pstation	QST-WK-0004	Microsoft Windows 10 Enterprise x64	427	10/1/2016 19:47	LENOVO	3212BJ7	AD\pstation	10/28/2013 0:00	10/17/2017 0:00	gdefronz	Kiosk		427
+R9E77XG	qstcloud	QST-WL-0050	Microsoft Windows 7 Enterprise x64	340 E	10/1/2016 16:43	LENOVO	4174BW7	AD\qstcloud	6/15/2011 0:00	6/24/2015 0:00	cbarrett	Loaner		340 E
+67822334153	Gmeri	QST-WL-0241	Microsoft Windows 10 Pro x64	615B	10/1/2016 19:32	Microsoft Corporation	Surface Pro 2	.\Gmeri	1/16/2014 0:00	1/15/2015 0:00	kericson	Secondary		615B
+W80362ZJAGX	ssamuels	SMG643ALT-1	Microsoft Windows 7 Enterprise x64	643A	6/4/2015 23:44	Apple Inc.	"MacBookPro6,2"	AD\ssamuels	9/6/2010 0:00	9/5/2013 0:00	ssamuels	Secondary		643A
+Parallels-7F F9 B3 9D 28 EA 4B 36 A0 B9 84 A4 14 32 A9 9C	istds-admin	SMG630ELT	Microsoft Windows 7 Professional x64		3/27/2015 11:40	Parallels Software International Inc.	Parallels Virtual Platform	SMG630ELT\istds-admin	11/30/-001 00:00:00	11/30/-001 00:00:00	seaholm	Secondary		
+CXYL8Z1	pcortes	SMG639-1	Microsoft Windows 7 Professional x64		10/1/2016 18:55	Dell Inc.	Precision T5600	AD\pcortes	10/23/2013 0:00	10/24/2016 0:00	pcortes	Primary		
+MJYWGX8	smgguest	SMG630-1	Microsoft Windows 7 Professional x64	630	12/14/2015 14:20	LENOVO	4524A61	AD\smgguest	7/2/2011 0:00	7/1/2015 0:00	firefox	Shared		630
+LR1H5MG	smgcloud	SMG326LT-40	Microsoft Windows 7 Professional x64	340 E	9/22/2016 9:18	LENOVO	05962RU	AD\smgcloud	11/30/2011 0:00	11/29/2012 0:00	cbarrett	Loaner		340 E
+PF00603Y	qstcloud	QST-WL-0051	Microsoft Windows 10 Enterprise x64	340E	9/19/2016 8:42	LENOVO	20ARCTO1WW	AD\qstcloud	11/30/-001 00:00:00	11/30/-001 00:00:00	cbarrett	Loaner		340E
+MJ19TYP	suschkiv	QST-WD-0283	Microsoft Windows 7 Professional x64	Room 116	6/21/2016 15:49	LENOVO	3212BJ7	AD\suschkiv	12/9/2013 0:00	11/28/2017 0:00	amcbride	Primary		Room 116
+MJ19TZA	smgcrcws	QST-WD-0331	Microsoft Windows 7 Professional x64	122	10/1/2016 18:13	LENOVO	3212BJ7	AD\mlynd	11/29/2013 0:00	11/28/2017 0:00	rzsilver	Primary		122
+MJ19TYZ	smrichar	QST-WD-0220	Microsoft Windows 7 Professional x64	110	10/1/2016 19:54	LENOVO	3212BJ7	AD\kpalance	12/9/2013 0:00	11/28/2017 0:00	matychak	Shared		110
+C17FT9SBDH2G	jkissh	qst-ml-0002	Mac OS X 10.11.1 (x86_64)	333 A	1/15/2016 10:33	"Apple, Inc."	"MacBookPro8,1"		6/7/2011 0:00	6/6/2014 0:00	cbarrett	Loaner		333 A
+MJ004NV4	ssrini	QST-WD-0311	Microsoft Windows 7 Professional x64	658C	9/22/2016 1:19	LENOVO	30A2A038US	AD\ssrini	12/29/2013 0:00	12/18/2017 0:00	ssrini	Primary	SMG657	658C
+R8M3YZE	qstcloud	QST-WL-0060	Microsoft Windows 7 Enterprise x64	340 E	8/26/2016 14:26	LENOVO	4236GG9	AD\qstcloud	7/10/2011 0:00	7/9/2015 0:00	cbarrett	Loaner		340 E
+MJ006KEJ	swatts	SMG645-1	Microsoft Windows 7 Enterprise x64		7/26/2016 9:16	LENOVO	30A2A038US	AD\swatts	1/19/2014 0:00	1/8/2018 0:00	swatts	Primary		
+MJYWGX7	gdefronz	QST-WD-0315	Microsoft Windows 7 Professional x64	630 C	3/21/2016 23:02	LENOVO	4524A61	AD\gdefronz	7/2/2011 0:00	7/1/2015 0:00	gdefronz	Shared		630 C
+PK2P6Y8	kcurley	SMG612LT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 19:21	LENOVO	3448AR2	AD\kcurley	2/12/2014 0:00	2/11/2018 0:00	kcurley	Primary		
+2UA8291Q3R	smgta	SMGSCANTRON	Microsoft Windows 7 Professional	626	8/30/2016 17:21	Hewlett-Packard	HP xw4600 Workstation	AD\indiam	7/23/2008 0:00	8/26/2013 0:00	firefox	Shared		626
+C02M7WN2FH00	jfreedma	SMG631AMACLT-1	Mac OS X 10.10.5 (x86_64)		9/2/2016 18:52	"Apple, Inc."	"MacBookPro11,1"		2/19/2014 0:00	2/18/2017 0:00	jfreedma	Primary		
+C02M7WN2FH00	jfreedma	SMG631ALT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 13:09	Apple Inc.	"MacBookPro11,1"	AD\jfreedma	2/19/2014 0:00	2/18/2017 0:00	jfreedma	Primary		
+37309640453	cbarrett	QST-WL-0066	Microsoft Windows 10 Enterprise x64	340	9/4/2016 8:56	Microsoft Corporation	Surface Pro 2	AD\cbarrett	5/19/2014 0:00	5/18/2015 0:00	cbarrett	Loaner		340
+W895205Y8YB	mba	SMG110ALT-1	Microsoft Windows 7 Professional x64	110 A	9/29/2016 9:28	Apple Inc.	"MacBookPro5,2"	AD\mba	12/24/2009 0:00	12/23/2012 0:00	mcsiegel	Shared		110 A
+BSZZQF1	smgfedws	SMG520F-2	Microsoft Windows 7 Professional	520 F	10/1/2016 19:20	Dell Inc.	OptiPlex 755	AD\smgfedws	2/26/2008 0:00	2/26/2013 0:00	jmcgill	Shared		520 F
+MJPBXNA	asr809	SMG521	Microsoft Windows 7 Professional x64		10/1/2016 18:49	LENOVO	4524AY5	AD\asr809	6/26/2012 0:00	6/25/2016 0:00	shamid	Primary		
+2UA8500SY2	peggyw	SMG629-2	Microsoft Windows 7 Enterprise x64		10/1/2016 19:14	Hewlett-Packard	HP xw4600 Workstation	AD\peggyw	12/12/2008 0:00	1/5/2014 0:00	peggyw	Secondary		
+MJ762BL	tonikola	QST-WD-0001	Microsoft Windows 7 Professional x64	636A	6/4/2015 10:44	LENOVO	36901K3	AD\tonikola	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ761YX	mdc	QST-WD-0027	Microsoft Windows 7 Professional x64	636A	7/20/2015 11:27	LENOVO	36901K3	AD\mdc	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+2UA8291Q3P	smgupodb	QST-WK-0007	Microsoft Windows 7 Professional	102	10/1/2016 18:51	Hewlett-Packard	HP xw4600 Workstation	AD\smgupodb	7/23/2008 0:00	8/26/2013 0:00	normanb	Kiosk		102
+C02M6KCTFH00	tsimcoe	SMG641MACLT-1	Mac OS X 10.11.6 (x86_64)		10/1/2016 18:56	"Apple, Inc."	"MacBookPro11,1"		2/7/2014 0:00	2/6/2017 0:00	tsimcoe	Secondary		
+PF00SE9K	wsamuels	SMG530LT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 19:37	LENOVO	20B7A05GUS	AD\wsamuels	3/6/2014 0:00	3/5/2018 0:00	wsamuels	Primary		
+PF00QWV1	nedrimer	SMG568LT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:08	LENOVO	20ARA05BUS	AD\nedrimer	3/5/2014 0:00	3/4/2018 0:00	nedrimer	Primary		
+MJ00ERMW	pstation	QST-WK-0001	Microsoft Windows 10 Enterprise x64	328	10/1/2016 19:49	LENOVO	10A6A03RUS	AD\pstation	3/4/2014 0:00	3/3/2018 0:00	gdefronz	Kiosk		328
+MJ00ERMR	jmay1976	QST-WD-0329	Microsoft Windows 7 Professional x64	186A Copy Center	10/1/2016 18:29	LENOVO	10A6A03RUS	AD\jmay1976	3/4/2014 0:00	3/3/2018 0:00	jmay1976	Primary		186A Copy Center
+MJ761YY	mdc	QST-WD-0026	Microsoft Windows 7 Professional x64	636A	7/20/2015 11:48	LENOVO	36901K3	AD\mdc	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+MJ00ERMZ	smgembws	QST-WD-0214	Microsoft Windows 7 Professional x64	422A	10/1/2016 19:39	LENOVO	10A6A03RUS	AD\smgembws	3/4/2014 0:00	3/3/2018 0:00	sharper	Shared		422A
+2UA8500SXM	smgdnows	QST-WD-0233	Microsoft Windows 7 Professional	504	10/1/2016 19:33	Hewlett-Packard	HP xw4600 Workstation	AD\smgdnows	12/12/2008 0:00	1/5/2014 0:00	mbda	Shared		504
+PK0CP7P	nardizzi	QST-WL-0062	Microsoft Windows 7 Enterprise x64	328	10/1/2016 2:32	LENOVO	2355BE3	AD\nardizzi	8/12/2013 0:00	8/11/2017 0:00	cbarrett	Loaner		328
+MJ00G03S	rebitzer	SMG637A-1	Microsoft Windows 7 Enterprise x64	637 A	10/1/2016 18:28	LENOVO	30A2A038US	AD\rebitzer	3/12/2014 0:00	3/11/2018 0:00	rebitzer	Primary		637 A
+MJ00ERMX	Administrator	QST-WD-0251	Microsoft Windows 10 Enterprise x64	342	10/1/2016 18:51	LENOVO	10A6A03RUS	.\DSAccount	3/4/2014 0:00	3/3/2018 0:00	gdefronz	Reserve		342
+MJ00ERN0	rgriffin	QST-WD-0327	Microsoft Windows 7 Enterprise x64	186A Copy Center	10/1/2016 19:26	LENOVO	10A6A03RUS	AD\rgriffin	3/4/2014 0:00	3/3/2018 0:00	rgriffin	Primary		186A Copy Center
+8HB9SF1	sina	SMG618	Microsoft Windows 7 Enterprise x64	618	10/25/2015 10:39	Dell Inc.	OptiPlex 755	AD\sina	3/4/2008 0:00	3/4/2013 0:00	curtisja	Shared		618
+2UA8291Q34	harneyb	SMG650A-1	Microsoft Windows 7 Enterprise x64	650 A	6/8/2016 12:00	Hewlett-Packard	HP xw4600 Workstation	AD\harneyb	7/23/2008 0:00	8/26/2013 0:00	sandrak	Shared		650 A
+MJYWGX4	smgitsse	QST-WD-0205	Microsoft Windows 10 Enterprise x64	342	10/1/2016 19:19	LENOVO	4524A61	AD\smgitsse	7/2/2011 0:00	7/1/2015 0:00	markks	Shared		342
+2UA8500SXT	sandrak	QST-WD-0312	Microsoft Windows 7 Enterprise x64	570	10/1/2016 18:14	Hewlett-Packard	HP xw4600 Workstation	AD\sandrak	12/12/2008 0:00	1/5/2014 0:00	akarpovs	Primary		570
+C02MG32XF6T6	Joseph	SMG663MACLT	Mac OS X 10.10.5 (x86_64)	663	10/1/2016 9:28	"Apple, Inc."	"MacBookAir6,2"		3/28/2014 0:00	3/27/2017 0:00	jres	Secondary		663
+C02J51UADRVG	mva	SMG649MACLT-1	Mac OS X 10.11.6 (x86_64)		9/21/2016 10:45	"Apple, Inc."	"MacBookAir5,2"		8/2/2012 0:00	8/1/2015 0:00	mva	Secondary		
+C02MG1E1F8J4	jrdixon	QST-MD-0128	Mac OS X 10.11.6 (x86_64)		10/1/2016 15:20	"Apple, Inc."	"iMac14,2"		4/24/2014 0:00	4/23/2017 0:00	jrdixon	Primary		
+R9PDGK3	fatema1	SMGLOANERLT-18	Microsoft Windows 7 Professional x64	340	6/30/2016 0:05	LENOVO	4243FW3	AD\fatema1	6/11/2012 0:00	6/10/2016 0:00	cbarrett	Loaner		340
+2UA8291Q30	buzzlab	SMG143BSR404	Microsoft Windows 7 Professional	404	10/1/2016 19:11	Hewlett-Packard	HP xw4600 Workstation	AD\buzzlab	7/23/2008 0:00	8/26/2013 0:00	ianmash	Shared		404
+2UA8291Q3Z	Buzzlab	SMG143BSR402	Microsoft Windows 7 Enterprise x64	402	10/1/2016 19:32	Hewlett-Packard	HP xw4600 Workstation	AD\Buzzlab	7/23/2008 0:00	8/26/2013 0:00	ianmash	Shared		402
+2UA8291Q2J	bsr143ws	SMG143BSR403	Microsoft Windows 7 Enterprise x64	403	10/1/2016 19:16	Hewlett-Packard	HP xw4600 Workstation	AD\bsr143ws	7/23/2008 0:00	8/29/2011 0:00	ianmash	Shared		403
+2UA8291Q25	sclorkin	SMG143BSR401	Microsoft Windows 7 Enterprise x64	401	9/28/2016 15:09	Hewlett-Packard	HP xw4600 Workstation	AD\sclorkin	7/23/2008 0:00	8/29/2011 0:00	ianmash	Shared		401
+PK0CP7R	qstcloud	QST-WL-0046	Microsoft Windows 7 Enterprise x64	340E	8/22/2016 15:23	LENOVO	2355BE3	AD\qstcloud	8/12/2013 0:00	8/11/2017 0:00	cbarrett	Loaner		340E
+37171240453	qstcloud	QST-WL-0053	Microsoft Windows 10 Enterprise x64	340	7/6/2016 8:17	Microsoft Corporation	Surface Pro 2	AD\qstcloud	5/19/2014 0:00	5/18/2015 0:00	cbarrett	Loaner		340
+PK0CP7N	qstcloud	QST-WL-0047	Microsoft Windows 7 Enterprise x64	340 E	9/8/2016 21:53	LENOVO	2355BE3	AD\qstcloud	8/12/2013 0:00	8/11/2017 0:00	cbarrett	Loaner		340 E
+C02MN1S1FH00	pmorriso	SMG627AMACLT-1	Mac OS X 10.11.6 (x86_64)		10/1/2016 11:34	"Apple, Inc."	"MacBookPro11,1"		6/3/2014 0:00	6/2/2017 0:00	pmorriso	Secondary		
+MJ00ERMQ	dparker	SMG601-1	Microsoft Windows 7 Professional x64		6/12/2015 11:21	LENOVO	10A6A03RUS	AD\dparker	3/4/2014 0:00	3/3/2018 0:00	dparker	Primary		
+R902ECAN	skahn	SMG518CLT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:14	LENOVO	20A8A0A5US	AD\skahn	6/26/2014 0:00	6/26/2017 0:00	skahn	Primary		
+5134140253	gdefronz	SMG636ALT-1	Microsoft Windows 8.1 Pro x64		7/4/2016 11:29	Microsoft Corporation	Surface Pro 2	AD\gdefronz	4/10/2014 0:00	4/9/2015 0:00	gdefronz	Secondary		
+R902ECAP	fournism	SMG663ALT	Microsoft Windows 7 Enterprise x64		10/1/2016 18:54	LENOVO	20A8A0A5US	AD\fournism	6/18/2014 0:00	6/17/2018 0:00	fournism	Primary		
+HH2GYZ1	pcortes	SMG639LT-3	Microsoft Windows 7 Professional x64		9/25/2016 6:46	Dell Inc.	Dell Precision M3800	AD\pcortes	5/5/2014 0:00	5/5/2017 0:00	pcortes	Secondary		
+MJ762AD	vany	QST-WD-0028	Microsoft Windows 7 Professional x64	636A	7/20/2015 11:48	LENOVO	36901K3	AD\vany	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		636A
+C02MW308F8J4	mlynd	SMG630CMAC-3	Mac OS X 10.10.5 (x86_64)	630 C	10/1/2016 16:28	"Apple, Inc."	"iMac14,2"		6/20/2014 0:00	6/19/2017 0:00	gdefronz	Shared		630 C
+34699442453	ren	SMG655LT-2	Microsoft Windows 8.1 Pro x64	655	10/1/2016 19:55	Microsoft Corporation	Surface Pro 3	AD\ren	9/12/2014 0:00	9/11/2015 0:00	ren	Secondary		655
+C02MW30RF8J4	tonychu	SMG630CMAC-4	Mac OS X 10.10.5 (x86_64)	630 C	9/16/2016 1:07	"Apple, Inc."	"iMac14,2"		6/20/2014 0:00	6/19/2017 0:00	gdefronz	Shared		630 C
+PF02NFXG	phyll	SMG548DLT	Microsoft Windows 7 Enterprise x64		10/1/2016 19:16	LENOVO	20ARS0DM00	AD\phyll	7/15/2014 0:00	7/14/2018 0:00	phyll	Primary		
+R9030HNX	mmacgarv	QST-WL-0219	Microsoft Windows 7 Enterprise x64	Room 518B	10/1/2016 19:35	LENOVO	20A8A0A5US	AD\mmacgarv	7/19/2014 0:00	7/18/2018 0:00	mmacgarv	Secondary		Room 518B
+MJPBXNG	johnffox	SMG513-1	Microsoft Windows 7 Enterprise x64	Room 504E	9/19/2016 14:02	LENOVO	4524AY5	AD\johnffox	6/27/2012 0:00	6/26/2016 0:00	camphil	Shared		Room 504E
+MJ016NZG	abunnell	QST-WD-0271	Microsoft Windows 7 Enterprise x64	102	10/1/2016 18:08	LENOVO	10AHS05700	AD\abunnell	7/17/2014 0:00	7/16/2018 0:00	mcsiegel	Shared		102
+MJ016NZF	Connect	QST-WD-0279	Microsoft Windows 7 Enterprise x64	112 G	10/1/2016 18:51	LENOVO	10AHS05700	AD\connect	7/17/2014 0:00	7/16/2018 0:00	mcsiegel	Shared		112 G
+50159142953	jhibbard	QST-WL-0090	Microsoft Windows 10 Enterprise x64	340E	10/1/2016 8:37	Microsoft Corporation	Surface Pro 3	AD\jhibbard	10/17/2014 0:00	10/16/2016 0:00	cbarrett	Loaner		340E
+MJ016NZE	Connect	QST-WD-0278	Microsoft Windows 7 Enterprise x64	112G	9/30/2016 14:31	LENOVO	10AHS05700	AD\Connect	7/17/2014 0:00	7/16/2018 0:00	mcsiegel	Shared		112G
+MJ01819P	dell	SMG651-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:20	LENOVO	10A6S19F00	AD\dell	8/3/2014 0:00	8/3/2017 0:00	dell	Primary		
+LR035QYY	qstcloud	QST-WL-0019	Microsoft Windows 10 Enterprise x64		9/27/2016 11:07	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYA	qstcloud	QST-WL-0017	Microsoft Windows 10 Enterprise x64		9/27/2016 11:11	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYX	qstcloud	QST-WL-0015	Microsoft Windows 10 Enterprise x64		6/7/2016 8:51	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYV	qstcloud	QST-WL-0028	Microsoft Windows 10 Enterprise x64		9/27/2016 11:17	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYW	qstcloud	QST-WL-0032	Microsoft Windows 10 Enterprise x64		6/15/2016 7:20	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		
+LR035QZ2	qstcloud	QST-WL-0063	Microsoft Windows 10 Enterprise x64	340 E	9/27/2016 11:08	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340 E
+LR035QYG	qstcloud	QST-WL-0030	Microsoft Windows 10 Enterprise x64	340 E	7/28/2016 9:39	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340 E
+LR035QZ3	qstcloud	QST-WL-0027	Microsoft Windows 10 Enterprise x64		6/7/2016 10:02	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYC	qstcloud	QST-WL-0012	Microsoft Windows 10 Enterprise x64		9/27/2016 11:07	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR03JSBG	smgcloud	SMGLOANERLT-77	Microsoft Windows 7 Enterprise x64	340	9/21/2015 22:26	LENOVO	20DAS0QK00	AD\smgcloud	8/17/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340
+LR035QYR	qstcloud	QST-WL-0031	Microsoft Windows 10 Enterprise x64		6/7/2016 14:06	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYF	qstcloud	QST-WL-0033	Microsoft Windows 10 Enterprise x64		6/7/2016 14:07	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYZ	qstcloud	QST-WL-0018	Microsoft Windows 10 Enterprise x64		9/27/2016 11:06	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYL	qstcloud	QST-WL-0016	Microsoft Windows 10 Enterprise x64		6/7/2016 8:45	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYD	qstcloud	QST-WL-0013	Microsoft Windows 10 Enterprise x64		9/27/2016 11:04	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYB	qstcloud	QST-WL-0065	Microsoft Windows 10 Enterprise x64	340 E	9/27/2016 11:04	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340 E
+LR035QYQ	qstcloud	QST-WL-0014	Microsoft Windows 10 Enterprise x64		9/27/2016 11:21	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QZ0	qstcloud	QST-WL-0034	Microsoft Windows 10 Enterprise x64		6/8/2016 7:30	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYJ	qstcloud	QST-WL-0009	Microsoft Windows 10 Enterprise x64		9/27/2016 11:06	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QZ1	qstcloud	QST-WL-0008	Microsoft Windows 10 Enterprise x64		9/27/2016 11:04	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Shared		
+LR035QY9	qstcloud	QST-WL-0029	Microsoft Windows 10 Enterprise x64		6/7/2016 11:14	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR035QYN	qstcloud	QST-WL-0025	Microsoft Windows 10 Enterprise x64		9/27/2016 11:07	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+MJ01B595	aperezor	SMG524-1	Microsoft Windows 7 Professional x64		4/8/2016 17:26	LENOVO	10A6S07J00	AD\aperezor	8/14/2014 0:00	8/13/2018 0:00	aperezor	Primary		
+	smgkiosk	QST-WK-0005	Microsoft Windows 7 Professional	427	10/1/2016 18:22	Intel	D33217GK	AD\smgkiosk	11/30/-001 00:00:00	11/30/-001 00:00:00	gdefronz	Kiosk		427
+MJ01AHSS	elmort	QST-WD-0109	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:42	LENOVO	30AJS03T00	AD\elmort	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+MJ01AHSU	hhall	QST-WD-0106	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:03	LENOVO	30AJS03T00	AD\xinzchen	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+MJ01AHSQ	dlesser	QST-WD-0107	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:21	LENOVO	30AJS03T00	AD\nianli	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+MJ01AHSP	earthur	QST-WD-0110	Microsoft Windows 7 Enterprise x64	427	10/1/2016 19:57	LENOVO	30AJS03T00	AD\yterry	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+MJ01AHSR	ltd	QST-WD-0108	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:54	LENOVO	30AJS03T00	AD\ltd	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+MJ01AHST	elnazk	QST-WD-0105	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:55	LENOVO	30AJS03T00	AD\elnazk	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+D25FR00NDHJW	venkat	SMG614A-2	Mac macOS 10.12 (x86_64)		10/1/2016 18:30	"Apple, Inc."	"iMac12,2"		5/23/2011 0:00	5/22/2014 0:00	venkat	Primary		
+C02MT3YQF8J4	wx	QST-MD-0002	Mac OS X 10.11.6 (x86_64)	427	10/1/2016 17:25	"Apple, Inc."	"iMac14,2"		7/21/2014 0:00	7/20/2017 0:00	gdefronz	Computer Lab		427
+MJ01AH6C	rtrudel	SMG658B-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:20	LENOVO	30AJS03U00	AD\rtrudel	8/28/2014 0:00	8/28/2017 0:00	rtrudel	Primary		
+MJ01AHSV	kgerard	QST-WD-0111	Microsoft Windows 7 Enterprise x64	427	10/1/2016 18:20	LENOVO	30AJS03T00	AD\nianli	8/25/2014 0:00	8/25/2017 0:00	gdefronz	Computer Lab		427
+LR035QY8	qstcloud	QST-WL-0044	Microsoft Windows 10 Enterprise x64		9/27/2016 11:13	LENOVO	20DAS07N00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+PC001AGG	kduroche	SMG508CLT	Microsoft Windows 7 Enterprise x64		9/29/2016 21:47	LENOVO	20ARS0DM00	AD\kduroche	8/15/2014 0:00	8/14/2018 0:00	kduroche	Primary		
+59144542853	jheineke	SMG669ALT-1	Microsoft Windows 8.1 Pro x64		5/22/2016 15:40	Microsoft Corporation	Surface Pro 3	AD\jheineke	11/14/2014 0:00	11/13/2015 0:00	jheineke	Secondary		
+D25FN0N3DHJV	cbarrett	QST-MD-0113	Mac OS X 10.11.3 (x86_64)	333	6/8/2016 12:29	"Apple, Inc."	"iMac12,2"		5/6/2011 0:00	5/5/2014 0:00	cbarrett	Shared		333
+C02NJ0BEG5RP	emsull	SMG132MACLT-1	Mac OS X 10.11 (x86_64)		10/28/2015 11:46	"Apple, Inc."	"MacBookAir6,2"		10/8/2014 0:00	10/7/2017 0:00	emsull	Primary		
+C02HF3RVDHJP	kesslerr	SMG630DMAC	Mac OS X 10.11.6 (x86_64)		10/1/2016 16:25	"Apple, Inc."	"iMac12,2"		5/21/2012 0:00	5/20/2015 0:00	kesslerr	Primary		
+LR1H5MT	qstcloud	SMGLOANERLT-4	Microsoft Windows 7 Enterprise x64	340	9/30/2016 15:36	LENOVO	05962RU	AD\qstcloud	11/30/2011 0:00	11/29/2012 0:00	cbarrett	Loaner		340
+R9YKKK4	qstcloud	QST-WL-0048	Microsoft Windows 7 Enterprise x64	340 E	9/29/2016 14:04	LENOVO	2355BE3	AD\qstcloud	5/10/2013 0:00	5/9/2017 0:00	cbarrett	Loaner		340 E
+R9F3T1L	mba	QST-WL-0208	Microsoft Windows 7 Enterprise x64	110	6/25/2015 15:10	LENOVO	4291G96	AD\mba	7/29/2011 0:00	8/7/2015 0:00	mcsiegel	Shared		110
+MJ762CV	Susilo2	QST-WD-0307	Microsoft Windows 7 Enterprise x64	515C	10/1/2016 18:20	LENOVO	36901K3	AD\Susilo2	5/16/2013 0:00	5/15/2017 0:00	hartman1	Shared		515C
+MJAXBLD	cmplayer	53BSR-FrontDesk	Microsoft Windows 7 Enterprise x64		10/1/2016 19:13	LENOVO	4524A61	AD\cmplayer	8/16/2011 0:00	8/25/2015 0:00	mmanolis	Shared		
+MJ01UR8D	connect	QST-WD-0277	Microsoft Windows 7 Professional x64	112 F	10/1/2016 19:37	LENOVO	10A6S1J000	AD\connect	12/12/2014 0:00	12/11/2018 0:00	mcsiegel	Shared		112 F
+MJ01UR8C	connect	QST-WD-0280	Microsoft Windows 7 Professional x64	112 G	10/1/2016 18:55	LENOVO	10A6S1J000	AD\connect	12/12/2014 0:00	12/11/2018 0:00	mcsiegel	Shared		112 G
+54029354-0003799	blubin	SMG616ALT-1	Microsoft Windows 7 Professional x64		6/9/2016 17:38	Sony Corporation	VPCZ1290X	AD\blubin	11/30/-001 00:00:00	11/30/-001 00:00:00	blubin	Secondary		
+R90C2A8R	kjparker	SMG515FLT	Microsoft Windows 7 Enterprise x64		9/30/2016 13:01	LENOVO	20BFS0P200	AD\kjparker	12/21/2014 0:00	12/20/2018 0:00	kjparker	Primary		
+MJWZXE5	johnfox	SMG633A	Microsoft Windows 7 Enterprise x64	633A	8/17/2015 15:38	LENOVO	4524A61	AD\johnfox	6/6/2011 0:00	6/15/2015 0:00	jalipuma	Shared		633A
+CNU1472KLV	mpaeglow	SMG506FLT-2	Microsoft Windows 7 Professional		7/25/2016 22:25	Hewlett-Packard	HP EliteBook 8760w	AD\mpaeglow	11/28/2011 0:00	1/1/2015 0:00	mpaeglow	Secondary		
+2CE8501GHL	kirby	SMG526LT	Microsoft Windows 7 Professional	526	4/10/2015 9:05	Hewlett-Packard	HP EliteBook 6930p	AD\kirby	1/7/2009 0:00	1/7/2012 0:00	kirby	Reserve		526
+PK0P9VG	qstblab	QST-BSR-WL-0002	Microsoft Windows 7 Enterprise x64	143 Bay  State Road - Basement	10/1/2016 19:13	LENOVO	2355BE3	AD\qstblab	8/27/2013 0:00	8/26/2017 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+To be filled by O.E.M.	smgkiosk	QST-WK-0006	Microsoft Windows 7 Professional x64	Atrium	10/1/2016 18:06	ARBOR	ITX-i77M0	AD\smgkiosk	11/30/-001 00:00:00	11/30/-001 00:00:00	gdefronz	Kiosk		Atrium
+R90F6LL1	rcpandey	SMG650LT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:39	LENOVO	20A8S2PA00	AD\rcpandey	2/15/2015 0:00	2/14/2019 0:00	rcpandey	Primary		
+LR1H3KZ	qstcloud	SMG326LT-38	Microsoft Windows 7 Professional x64	340 E	8/19/2016 12:36	LENOVO	05962RU	AD\qstcloud	11/30/2011 0:00	11/29/2012 0:00	cbarrett	Loaner		340 E
+88277344953	kcurley	SMG612LT-2	Microsoft Windows 8.1 Pro x64		7/31/2016 5:57	Microsoft Corporation	Surface Pro 3	AD\kcurley	3/10/2015 0:00	3/9/2016 0:00	kcurley	Secondary		
+R9FFK31	abcohen	QST-WL-0116	Microsoft Windows 7 Professional x64	210	9/9/2015 18:41	LENOVO	4243C13	AD\abcohen	8/25/2011 0:00	8/24/2015 0:00	abcohen	Shared		210
+	jccs	SMG641ALT-1	Microsoft Windows 8.1 Pro x64		9/6/2016 12:24	OEMC	O_E_M_C_	AD\jccs	12/2/2014 0:00	12/1/2015 0:00	jccs	Secondary		
+LR035QYU	qstcloud	QST-WL-0011	Microsoft Windows 10 Enterprise x64		9/27/2016 11:06	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+MJ00ERMS	cockburn	SMG645A	Microsoft Windows 7 Professional x64		10/1/2016 18:56	LENOVO	10A6A03RUS	AD\cockburn	3/4/2014 0:00	3/3/2018 0:00	cockburn	Primary		
+W80344H8DB6	utopia	SMG658A-1	Microsoft Windows 7 Professional		6/26/2015 14:08	Apple Inc.	"iMac11,3"	SMG658A-1\utopia	11/4/2010 0:00	11/3/2013 0:00	somahony	Secondary		
+R9YKKK5	qstcloud	QST-WL-0068	Microsoft Windows 7 Enterprise x64	340	9/20/2016 10:20	LENOVO	2355BE3	AD\qstcloud	5/10/2013 0:00	5/9/2017 0:00	cbarrett	Loaner		340
+MJ19TYY	pstation	QST-WK-0003	Microsoft Windows 10 Enterprise x64	328	10/1/2016 19:57	LENOVO	3212BJ7	AD\pstation	11/29/2013 0:00	11/28/2017 0:00	gdefronz	Kiosk		328
+R90FQLE4	guinther	SMG638LT-1	Microsoft Windows 7 Enterprise x64	638	9/30/2016 15:04	LENOVO	20A8S2PA00	AD\guinther	4/14/2015 0:00	4/13/2019 0:00	guinther	Secondary		638
+LR03JSBM	smgcloud	SMGLOANERLT-61	Microsoft Windows 7 Enterprise x64	340	11/29/2015 21:49	LENOVO	20DAS0QK00	AD\smgcloud	3/31/2015 0:00	4/9/2018 0:00	cbarrett	Loaner		340
+LR03JSBJ	qstcloud	QST-WL-0045	Microsoft Windows 10 Enterprise x64		9/27/2016 11:10	LENOVO	20DAS0QK00	AD\qstcloud	8/17/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR03JSBW	qstcloud	QST-WL-0003	Microsoft Windows 10 Enterprise x64		9/27/2016 11:12	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBD	qstcloud	QST-WL-0020	Microsoft Windows 10 Enterprise x64		9/27/2016 11:06	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBT	qstcloud	QST-WL-0039	Microsoft Windows 10 Enterprise x64		6/8/2016 7:59	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBN	qstcloud	QST-WL-0040	Microsoft Windows 10 Enterprise x64	340 E	9/27/2016 11:37	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	cbarrett	Loaner		340 E
+LR03JSBP	qstcloud	QST-WL-0041	Microsoft Windows 10 Enterprise x64		9/27/2016 11:11	LENOVO	20DAS0QK00	AD\qstcloud	3/31/2015 0:00	4/9/2018 0:00	gdefronz	Loaner		
+LR03JSBQ	qstcloud	QST-WL-0054	Microsoft Windows 10 Enterprise x64	340	9/27/2016 11:17	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	cbarrett	Loaner		340
+LR03JSBK	qstcloud	QST-WL-0001	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:10	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		340E
+LR03JSBH	qstcloud	QST-WL-0037	Microsoft Windows 10 Enterprise x64		6/8/2016 7:55	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBR	qstcloud	QST-WL-0024	Microsoft Windows 10 Enterprise x64		9/27/2016 11:14	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+PC04Q7AA	arthurcb	QST-WL-0201	Microsoft Windows 7 Enterprise x64		6/18/2016 19:07	LENOVO	20CLS0B800	AD\arthurcb	4/29/2015 0:00	4/28/2019 0:00	lbaird	Secondary		
+LR03JSBV	qstcloud	QST-WL-0006	Microsoft Windows 10 Enterprise x64		9/27/2016 11:14	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBL	qstcloud	QST-WL-0005	Microsoft Windows 10 Enterprise x64		9/27/2016 11:17	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBE	qstcloud	QST-WL-0023	Microsoft Windows 10 Enterprise x64		9/27/2016 11:11	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBS	qstcloud	QST-WL-0007	Microsoft Windows 10 Enterprise x64		9/27/2016 11:07	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR03JSBF	qstcloud	QST-WL-0004	Microsoft Windows 10 Enterprise x64		9/27/2016 11:09	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+LR035QYP	qstcloud	QST-WL-0038	Microsoft Windows 10 Enterprise x64		6/8/2016 8:04	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+LR03JSBU	qstcloud	QST-WL-0021	Microsoft Windows 10 Enterprise x64		9/27/2016 11:08	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+MJWZXD6	rgrueter	QST-WD-0112	Microsoft Windows 7 Enterprise x64	518K	10/1/2016 18:41	LENOVO	4524A61	AD\rgrueter	6/16/2011 0:00	6/15/2015 0:00	wsamuels	Secondary		518K
+LR035QYK	qstcloud	QST-WL-0036	Microsoft Windows 10 Enterprise x64		6/8/2016 8:07	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		
+MJ02DGW2	rsingh97	QST-WD-0001	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:40	LENOVO	10AAS48H00	AD\linmin	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJZRBCY	bsr143ws	QST-WD-0209	Microsoft Windows 7 Enterprise x64	143 BSR	10/1/2016 18:30	LENOVO	3212BJ7	AD\bsr143ws	1/12/2013 0:00	1/11/2017 0:00	ianmash	Loaner	3rd floor	143 BSR
+LR03JSBY	qstcloud	QST-WL-0002	Microsoft Windows 10 Enterprise x64		9/27/2016 11:13	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	gdefronz	Loaner		
+R9Z1EZN	jepost	SMG634ALT-1	Microsoft Windows 7 Enterprise x64		10/1/2016 16:01	LENOVO	2355BE3	AD\jepost	6/1/2013 0:00	5/31/2017 0:00				
+R90G4TVX	cjmeier	QST-WL-0203	Microsoft Windows 7 Enterprise x64		10/1/2016 13:41	LENOVO	20BTS2BL00	AD\cjmeier	6/4/2015 0:00	6/3/2019 0:00	cjmeier	Primary		
+PC05G2ZP	davweil	QST-WL-0206	Microsoft Windows 7 Enterprise x64		9/29/2016 23:43	LENOVO	20BWS2CS00	AD\davweil	6/8/2015 0:00	6/7/2019 0:00	davweil	Primary		
+C1MPV9TFG944	rebitzer	QST-ML-0210	Mac OS X 10.10.5 (x86_64)	637 A	10/1/2016 19:09	"Apple, Inc."	"MacBookAir7,2"		6/16/2015 0:00	6/15/2018 0:00	rebitzer	Secondary		637 A
+MJ02NSEJ	questromexec	QST-WD-0188	Microsoft Windows 10 Enterprise x64	418	9/30/2016 8:50	LENOVO	10AAS4GE00	AD\questromexec	6/20/2015 0:00	6/19/2019 0:00	gdefronz	Shared		418
+MJ02NSEE	questromexec	QST-WD-0186	Microsoft Windows 10 Enterprise x64	418	10/1/2016 19:35	LENOVO	10AAS4GE00	AD\questromexec	6/20/2015 0:00	6/19/2019 0:00	gdefronz	Shared		418
+C2VF95KNDH2H	qstcloud	QST-ML-0001	Mac OS X 10.11.5 (x86_64)	340 E	6/9/2016 13:02	"Apple, Inc."	"MacBookPro8,1"		2/28/2011 0:00	2/27/2014 0:00	cbarrett	Loaner		340 E
+MJ02NSEH	questromexec	QST-WD-0184	Microsoft Windows 10 Enterprise x64	418	10/1/2016 19:34	LENOVO	10AAS4GE00	AD\questromexec	6/20/2015 0:00	6/19/2019 0:00	gdefronz	Shared		418
+MJ02NSED	questromexec	QST-WD-0183	Microsoft Windows 10 Enterprise x64	418	10/1/2016 19:47	LENOVO	10AAS4GE00	AD\questromexec	6/20/2015 0:00	6/19/2019 0:00	gdefronz	Shared		418
+MJ02NSEF	questromexec	QST-WD-0187	Microsoft Windows 10 Enterprise x64	418	10/1/2016 19:47	LENOVO	10AAS4GE00	AD\questromexec	6/21/2015 0:00	6/20/2019 0:00	gdefronz	Shared		418
+PC05YS80	jkirks	QST-WL-0209	Microsoft Windows 7 Enterprise x64	620A	10/1/2016 18:22	LENOVO	20BWS2CS00	AD\jkirks	6/21/2015 0:00	6/20/2019 0:00	jkirks	Primary		620A
+LR035QYS	qstcloud	QST-WL-0042	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:03	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		340E
+LR035QYH	qstcloud	QST-WL-0010	Microsoft Windows 10 Enterprise x64	340 E	9/27/2016 11:10	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340 E
+C02HF3XLDHJP	guinther	QST-MD-0107	Mac OS X 10.11.6 (x86_64)	638A	10/1/2016 19:47	"Apple, Inc."	"iMac12,2"		5/21/2012 0:00	5/20/2015 0:00	bdupee	Shared		638A
+R90GFEPP	pdmarton	QST-WL-0211	Microsoft Windows 7 Enterprise x64	143 BSR Room 502	10/1/2016 15:26	LENOVO	20BTS2BL00	AD\pdmarton	6/30/2015 0:00	6/29/2019 0:00	pdmarton			143 BSR Room 502
+R90GFQ06	psteinbu	QST-WL-0213	Microsoft Windows 7 Enterprise x64	551	9/30/2016 15:41	LENOVO	20BTS2BL00	AD\psteinbu	6/30/2015 0:00	6/29/2019 0:00	psteinbu	Primary		551
+MJ02DGWE	smr95	QST-WD-0002	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:16	LENOVO	10AAS48H00	AD\khiroe	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWS	minnat	QST-WD-0003	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:24	LENOVO	10AAS48H00	AD\pspecora	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWN	bjhong	QST-WD-0004	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:28	LENOVO	10AAS48H00	AD\bjhong	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWM	crgamboa	QST-WD-0006	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:20	LENOVO	10AAS48H00	AD\crgamboa	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWP	minnat	QST-WD-0005	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:14	LENOVO	10AAS48H00	AD\minnat	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWD	xq33	QST-WD-0014	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:41	LENOVO	10AAS48H00	AD\indiam	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWH	cchen19	QST-WD-0011	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:20	LENOVO	10AAS48H00	AD\jcbanos	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW5	koletsou	QST-WD-0008	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:27	LENOVO	10AAS48H00	AD\dawntl	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW8	villero	QST-WD-0009	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:16	LENOVO	10AAS48H00	AD\villero	4/16/2015 0:00	4/15/2015 0:00	gdefronz	Computer Lab		328
+MJ02DGWR	xiaohang	QST-WD-0015	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:57	LENOVO	10AAS48H00	AD\rbmeyers	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWU	nolleber	QST-WD-0016	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:15	LENOVO	10AAS48H00	AD\rbmeyers	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWX	mwrubel	QST-WD-0030	Microsoft Windows 7 Enterprise x64	328	10/1/2016 14:16	LENOVO	10AAS48H00	AD\mdooe	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWA	mdooe	QST-WD-0012	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:42	LENOVO	10AAS48H00	AD\mdooe	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWF	lwz7	QST-WD-0010	Microsoft Windows 7 Enterprise x64	328	10/1/2016 20:00	LENOVO	10AAS48H00	AD\lwz7	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW9	njohari	QST-WD-0013	Microsoft Windows 7 Enterprise x64	328	9/29/2016 10:59	LENOVO	10AAS48H00	AD\njohari	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWK	villero	QST-WD-0007	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:20	LENOVO	10AAS48H00	AD\villero	4/17/2015 0:00	4/16/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWB	michald	QST-WD-0018	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:13	LENOVO	10AAS48H00	AD\jdn225	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW6	alejo4	QST-WD-0019	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:10	LENOVO	10AAS48H00	AD\nec7	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWQ	suzi911	QST-WD-0020	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:41	LENOVO	10AAS48H00	AD\sraghib	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW4	lzy	QST-WD-0021	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:12	LENOVO	10AAS48H00	AD\junyanhe	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW7	nsong	QST-WD-0022	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:16	LENOVO	10AAS48H00	AD\wcy	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWJ	rsingh97	QST-WD-0027	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:17	LENOVO	10AAS48H00	AD\rsingh97	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWT	kvliu	QST-WD-0023	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:22	LENOVO	10AAS48H00	AD\yiwenl	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWW	afreed01	QST-WD-0026	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:07	LENOVO	10AAS48H00	AD\afreed01	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGW3	stotwani	QST-WD-0028	Microsoft Windows 7 Enterprise x64	328	10/1/2016 18:54	LENOVO	10AAS48H00	AD\stotwani	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWG	mcvijic	QST-WD-0029	Microsoft Windows 7 Enterprise x64	328	2/10/2016 19:59	LENOVO	10AAS48H00	AD\mkaschak	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWC	cooper96	QST-WD-0024	Microsoft Windows 7 Enterprise x64	328	10/1/2016 20:00	LENOVO	10AAS48H00	AD\rothc	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJ02DGWV	pohlmann	QST-WD-0025	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:59	LENOVO	10AAS48H00	AD\jeffchen	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+PC06C7GA	normanb	QST-WL-0220	Microsoft Windows 7 Enterprise x64	102A	10/1/2016 19:19	LENOVO	20BWS2SS00	AD\normanb	7/15/2015 0:00	7/14/2019 0:00	normanb	Primary		102A
+R90GN95B	abcohen	QST-WL-0230	Microsoft Windows 7 Enterprise x64	210	10/1/2016 12:52	LENOVO	20BFS4EA00	AD\abcohen	7/21/2015 0:00	7/20/2019 0:00	abcohen	Secondary		210
+R90GHPTE	eriedl	QST-WL-0231	Microsoft Windows 7 Enterprise x64	522F	10/1/2016 16:03	LENOVO	20BFS4JM00	AD\eriedl	7/16/2015 0:00	7/15/2019 0:00	eriedl	Primary		522F
+PC06C7GH	zarotney	QST-WL-0235	Microsoft Windows 7 Enterprise x64	521	10/1/2016 18:18	LENOVO	20BWS2SS00	AD\zarotney	7/15/2015 0:00	7/14/2019 0:00	zarotney	Primary		521
+C02Q625PFVH8	amembo	QST-ML-0221	Mac OS X 10.10.5 (x86_64)	635	9/29/2016 9:27	"Apple, Inc."	"MacBookPro12,1"		8/7/2015 0:00	8/6/2018 0:00	carlile	Secondary		635
+R90GV8X0	rcovino	QST-WL-0238	Microsoft Windows 7 Enterprise x64	616	10/1/2016 18:27	LENOVO	20BFS4EA00	AD\rcovino	8/12/2015 0:00	8/11/2019 0:00	rcovino	Secondary		616
+MJ02DGWY	qstla	QST-328-SPARE	Microsoft Windows 7 Enterprise x64	328	4/19/2016 1:29	LENOVO	10AAS48H00	AD\qstla	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Spare		328
+MJ02DGWL	hongww	QST-WD-0017	Microsoft Windows 7 Enterprise x64	328	10/1/2016 19:59	LENOVO	10AAS48H00	AD\rbmeyers	4/16/2015 0:00	4/15/2019 0:00	gdefronz	Computer Lab		328
+MJTMZGV	pstation	QST-WK-0002	Microsoft Windows 10 Enterprise x64	328	10/1/2016 18:28	LENOVO	3212AV7	AD\pstation	9/8/2012 0:00	9/7/2016 0:00	gdefronz	Kiosk		328
+8170554053	mpaeglow	QST-WL-0251	Microsoft Windows 10 Pro x64	504F	9/5/2016 15:46	Microsoft Corporation	Surface Pro 4	AD\mpaeglow	3/4/2016 0:00	3/2/2020 0:00	mpaeglow	Secondary		504F
+MJ03BGRF	nosman	QST-WD-0040	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:30	LENOVO	10AAS48H00	AD\nosman	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR3	cameronc	QST-WD-0041	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:59	LENOVO	10AAS48H00	AD\telsey	12/8/2015 0:00	12/5/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRP	rbaird8	QST-WD-0042	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:56	LENOVO	10AAS48H00	AD\rbaird8	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRB	mrisamin	QST-WD-0043	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:30	LENOVO	10AAS48H00	AD\mrisamin	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR9	seaholm	QST-WD-0044	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:27	LENOVO	10AAS48H00	AD\seaholm	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRT	hhchiang	QST-WD-0045	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:20	LENOVO	10AAS48H00	AD\dnkgly	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGS2	pegan	QST-WD-0046	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:55	LENOVO	10AAS48H00	AD\pegan	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRY	hyhung	QST-WD-0047	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:19	LENOVO	10AAS48H00	AD\ergeta	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGQZ	tsliter	QST-WD-0048	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:07	LENOVO	10AAS48H00	AD\adrianae	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRH	msimko	QST-WD-0049	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:41	LENOVO	10AAS48H00	AD\msimko	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRN	bockroyc	QST-WD-0050	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:59	LENOVO	10AAS48H00	AD\bockroyc	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRX	vryakala	QST-WD-0068	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:32	LENOVO	10AAS48H00	AD\vryakala	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRM	bmarks	QST-WD-0051	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:17	LENOVO	10AAS48H00	AD\bmarks	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRQ	rlliao	QST-WD-0054	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:27	LENOVO	10AAS48H00	AD\mlorello	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGQY	paulyap	QST-WD-0052	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:53	LENOVO	10AAS48H00	AD\ichieff	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRE	pplopez	QST-WD-0067	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:18	LENOVO	10AAS48H00	AD\pplopez	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR5	abwaters	QST-WD-0053	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:18	LENOVO	10AAS48H00	AD\dnkgly	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRG	aric	QST-WD-0066	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:59	LENOVO	10AAS48H00	AD\mqiu	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGQU	anuragp1	QST-WD-0055	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:10	LENOVO	10AAS48H00	AD\anuragp1	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRR	mdp341	QST-WD-0065	Microsoft Windows 7 Enterprise x64	314	10/1/2016 20:00	LENOVO	10AAS48H00	AD\mpaeglow	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRD	zijian	QST-WD-0056	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:55	LENOVO	10AAS48H00	AD\mqiu	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRU	rgrama	QST-WD-0064	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:45	LENOVO	10AAS48H00	AD\rgrama	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRS	ayellis	QST-WD-0057	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:59	LENOVO	10AAS48H00	AD\dmei3010	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRJ	mieko	QST-WD-0058	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:44	LENOVO	10AAS48H00	AD\tckohans	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRC	ljseton	QST-WD-0069	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:53	LENOVO	10AAS48H00	AD\ljseton	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR8	amendez	QST-WD-0059	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:55	LENOVO	10AAS48H00	AD\amendez	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR2	marbonie	QST-WD-0063	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:19	LENOVO	10AAS48H00	AD\wqliao	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGR1	cesser	QST-WD-0062	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:18	LENOVO	10AAS48H00	AD\prosylar	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRZ	achabot	QST-WD-0060	Microsoft Windows 7 Enterprise x64	314	10/1/2016 19:36	LENOVO	10AAS48H00	AD\mam	12/8/2019 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGQV	singhjas	QST-WD-0061	Microsoft Windows 7 Enterprise x64	314	10/1/2016 18:10	LENOVO	10AAS48H00	AD\edweck	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		314
+MJ03BGRL	johnt3	QST-WD-0127	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 19:58	LENOVO	10AAS48H00	AD\johnt3	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGS1	beizhu09	QST-WD-0121	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 15:36	LENOVO	10AAS48H00	AD\beizhu09	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGRV	kazimov	QST-WD-0120	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 18:12	LENOVO	10AAS48H00	AD\kazimov	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGQT	zxq111	QST-WD-0122	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 18:16	LENOVO	10AAS48H00	AD\zxq111	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGQX	ringstad	QST-WD-0126	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 18:58	LENOVO	10AAS48H00	AD\hanggao	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGRW	joonsoo	QST-WD-0124	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 19:57	LENOVO	10AAS48H00	AD\jpacosta	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGR6	qfwu	QST-WD-0123	Microsoft Windows 7 Enterprise x64	402A	10/1/2016 18:55	LENOVO	10AAS48H00	AD\vahan	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ03BGS3	chentho	QST-WD-0125	Microsoft Windows 7 Enterprise x64	402A	9/30/2016 10:59	LENOVO	10AAS48H00	AD\chentho	12/8/2015 0:00	12/7/2019 0:00	gdefronz	Computer Lab		402A
+MJ02YR1Y	questromuser	QST-WD-0132	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:05	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+LR04QE08	qstcloud	QST-WL-0070	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:05	LENOVO	20DAS0QK00	AD\qstcloud	1/27/2016 0:00	3/12/2019 0:00	cbarrett	Loaner		340E
+LR04QDZZ	qstcloud	QST-WL-0074	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:14	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04Q331	qstcloud	QST-WL-0072	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:10	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE04	qstcloud	QST-WL-0075	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:04	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZW	qstcloud	QST-WL-0073	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:08	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZS	qstcloud	QST-WL-0071	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:07	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZV	qstcloud	QST-WL-0078	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:07	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZY	qstcloud	QST-WL-0079	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:12	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZU	qstcloud	QST-WL-0076	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:14	LENOVO	20DAS0QK00	AD\qstcloud	1/26/2016 0:00	3/11/2019 0:00	gdefronz	Loaner		340E
+LR04QDZT	qstcloud	QST-WL-0077	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:06	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE06	qstcloud	QST-WL-0080	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:04	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE03	qstcloud	QST-WL-0082	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:05	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE01	qstcloud	QST-WL-0081	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:11	LENOVO	20DAS0QK00	AD\qstcloud	1/26/2016 0:00	3/11/2019 0:00	gdefronz	Loaner		340E
+LR04QE02	qstcloud	QST-WL-0085	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:06	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZX	qstcloud	QST-WL-0084	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:09	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE00	qstcloud	QST-WL-0087	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 12:15	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04Q330	qstcloud	QST-WL-0086	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 10:33	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE07	qstcloud	QST-WL-0083	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:12	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QE05	qstcloud	QST-WL-0088	Microsoft Windows 10 Enterprise x64	340E	9/24/2016 15:48	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR04QDZR	qstcloud	QST-WL-0089	Microsoft Windows 10 Enterprise x64	340E	9/29/2016 15:19	LENOVO	20DAS0QK00	AD\qstcloud	1/25/2016 0:00	3/10/2019 0:00	gdefronz	Loaner		340E
+LR035QYT	qstcloud	QST-WL-0043	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:24	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	gdefronz	Loaner		340E
+LR035QYM	qstcloud	QST-WL-0026	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:06	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340E
+LR03JSBX	qstcloud	QST-WL-0022	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 11:05	LENOVO	20DAS0QK00	AD\qstcloud	3/30/2015 0:00	4/8/2018 0:00	cbarrett	Loaner		340E
+LR7A5WG	msforza	SMG326LT-37	Microsoft Windows 7 Professional x64		5/18/2016 17:17	LENOVO	05962RU	AD\msforza	11/30/2011 0:00	11/29/2012 0:00				
+LR035QYE	qstcloud	QST-WL-0035	Microsoft Windows 10 Enterprise x64	340E	6/8/2016 7:39	LENOVO	20DAS07N00	AD\qstcloud	8/8/2014 0:00	8/17/2017 0:00	cbarrett	Loaner		340E
+MJ03SF57	istds-admin	QST-WD-0180	Microsoft Windows 10 Enterprise x64		5/6/2016 13:12	LENOVO	10FLS0E400	.\istds-admin	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Shared		
+C02RQNC2FVH5	durkovic	QST-ML-0228	Mac OS X 10.11.6 (x86_64)	704 Comm Ave	9/26/2016 14:04	"Apple, Inc."	"MacBookPro12,1"		5/25/2016 0:00	5/24/2019 0:00	durkovic	Secondary		704 Comm Ave
+MJ03ZTDB	durkovic	QST-WD-0350	Microsoft Windows 7 Enterprise x64	704 Comm Ave	10/1/2016 18:05	LENOVO	10FCS05H00	AD\durkovic	5/31/2016 0:00	5/30/2020 0:00	durkovic	Primary		704 Comm Ave
+C02MT2HWF8J4	mlynd	QST-MD-0001	Mac OS X 10.11.6 (x86_64)	427A	10/1/2016 19:11	"Apple, Inc."	"iMac14,2"		7/21/2014 0:00	7/20/2017 0:00	gdefronz	Computer Lab		427A
+C02MT3UEF8J4	jgo	QST-MD-0003	Mac OS X 10.11.6 (x86_64)	427	10/1/2016 4:53	"Apple, Inc."	"iMac14,2"		7/21/2014 0:00	7/20/2017 0:00	gdefronz	Computer Lab		427
+MJ04BJ3Z	DSAccount	QST-BSR-WD-0017	Microsoft Windows 10 Enterprise x64	143 Bay  State Road - Basement	9/12/2016 17:58	LENOVO	10FLS0E400	.\DSAccount	8/18/2016 0:00	8/17/2020 0:00	gdefronz	Computer Lab		143 Bay  State Road - Basement
+MJPBXND	asadoo	SMG523-1	Microsoft Windows 7 Enterprise x64	523	10/1/2016 18:11	LENOVO	4524AY5	AD\asadoo	7/5/2012 0:00	6/25/2016 0:00	asadoo	Primary		523
+MJWZXD8	istds-admin	DESKTOP-FH4EGOF	Microsoft Windows 10 Enterprise x64		9/30/2015 16:01	LENOVO	4524A61	.\QST-WD-TEST	6/16/2011 0:00	6/15/2015 0:00	msmith22	Primary		
+MJ49E1N	yesun	QST-WD-0326	Microsoft Windows 7 Enterprise x64	518D	10/1/2016 18:24	LENOVO	3212BJ7	AD\yesun	8/3/2013 0:00	7/23/2017 0:00	yesun	Primary		518D
+MJ49E1R	mhagigi	SMG520B-1	Microsoft Windows 7 Enterprise x64		8/24/2016 9:23	LENOVO	3212BJ7	AD\mhagigi	8/3/2013 0:00	7/23/2017 0:00	mhagigi	Secondary		
+C02MDAJVFD56	albuquea	QST-ML-0229	Mac OS X 10.9.5 (x86_64)		10/1/2016 10:06	"Apple, Inc."	"MacBookPro11,2"		3/18/2014 0:00	3/17/2017 0:00	albuquea	Primary		
+29103642353	mpackard	QST-WL-0268	Microsoft Windows 10 Enterprise x64	518F	10/1/2016 19:41	Microsoft Corporation	Surface Pro 3	AD\mpackard	9/18/2014 0:00	9/17/2015 0:00	mpackard	Primary		518F
+MJ015GPT	fbrochet	QST-WD-0228	Microsoft Windows 7 Professional x64	528	9/30/2016 13:36	LENOVO	10A6S07J00	AD\fbrochet	7/10/2014 0:00	7/9/2018 0:00	fbrochet	Primary		528
+MJ01B596	jhelvy	QST-WD-0314	Microsoft Windows 7 Enterprise x64	515A	10/1/2016 19:44	LENOVO	10A6S07J00	AD\ali1	8/14/2014 0:00	8/13/2018 0:00	ekeating	Primary		515A
+R9PD3AC	kmenon	SMG518HLT	Microsoft Windows 7 Enterprise x64		9/2/2016 15:59	LENOVO	4174GD4	AD\kmenon	6/11/2012 0:00	6/10/2016 0:00	kmenon	Secondary		
+MJ02F57L	williams	QST-WD-0202	Microsoft Windows 7 Enterprise x64	572	10/1/2016 15:24	LENOVO	10A6S1J000	AD\williams	4/30/2015 0:00	4/29/2019 0:00	williams	Primary		572
+C02PP952FVH7	kirby	QST-ML-0204	Mac OS X 10.11.6 (x86_64)	526	10/1/2016 12:56	"Apple, Inc."	"MacBookPro12,1"		5/23/2015 0:00	5/22/2018 0:00	kirby	Primary		526
+MJ02PFUJ	msmith22	QST-WD-0225	Microsoft Windows 7 Enterprise x64	538	10/1/2016 19:35	LENOVO	10A6S25900	AD\msmith22	6/25/2015 0:00	6/24/2019 0:00	msmith22	Primary		538
+MJ02SBYK	jdanders	QST-WD-0303	Microsoft Windows 7 Enterprise x64	518E	9/30/2016 15:59	LENOVO	10A6S2AQ00	AD\jdanders	7/18/2015 0:00	8/31/2018 0:00	jdanders	Primary		518E
+13868254953	drgriswold_vantagepo	VPF-DAVID-LT	Microsoft Windows 10 Pro x64	529	10/1/2016 18:13	Microsoft Corporation	Surface Pro 4	CFNMAIL\drgriswold_vantagepo	3/9/2016 0:00	3/7/2020 0:00	griswodr	Secondary		529
+G5YKH72	yesun	QST-WL-0210	Microsoft Windows 10 Enterprise x64	518D	10/1/2016 17:59	Dell Inc.	XPS 15 9550	AD\yesun	1/19/2016 0:00	1/22/2024 0:00	yesun	Secondary		518D
+MJ03KZFU	lynnli	QST-WD-0335	Microsoft Windows 10 Enterprise x64	522G	10/1/2016 19:57	LENOVO	10FCS0CK00	AD\lynnli	2/12/2016 0:00	2/11/2020 0:00	lynnli	Primary		522G
+C02R91CFGG7N	EKS	QST-MD-0115	Mac OS X 10.11.6 (x86_64)	522G	10/1/2016 16:49	"Apple, Inc."	"iMac17,1"		4/4/2016 0:00	4/3/2019 0:00	lynnli	Secondary		522G
+MJ048G2Q	mhagigi	QST-WD-0380	Microsoft Windows 10 Enterprise x64	520B	9/30/2016 16:29	LENOVO	10FCS1DU00	AD\mhagigi	7/27/2016 0:00	7/26/2020 0:00	mhagigi	Primary		520B
+MJ762AC	amendez	QST-WD-0375	Microsoft Windows 10 Enterprise x64	504D	9/30/2016 15:47	LENOVO	36901K3	AD\amendez	5/26/2013 0:00	5/15/2017 0:00	amendez	Primary		504D
+MJBBTPR	kfrid	QST-WD-0301	Microsoft Windows 7 Professional x64	416 F	10/1/2016 19:56	LENOVO	4524A61	AD\kfrid	8/25/2011 0:00	8/24/2015 0:00	msforza	Shared		416 F
+MJ00ERMT	msforza	QST-WD-0297	Microsoft Windows 7 Professional x64	416F	10/1/2016 19:58	LENOVO	10A6A03RUS	AD\msforza	3/4/2014 0:00	3/3/2018 0:00	msforza	Primary		416F
+MJ01CY7F	mpaeglow	QST-WD-0210	Microsoft Windows 7 Enterprise x64	504F	4/8/2016 1:44	LENOVO	30AJS03U00	AD\mpaeglow	9/7/2014 0:00	9/7/2017 0:00	mpaeglow	Primary		504F
+R90KUS8R	msforza	QST-WL-0299	Microsoft Windows 10 Enterprise x64	416F	7/8/2016 17:55	LENOVO	20FCS0VF00	AD\msforza	6/20/2016 0:00	6/19/2020 0:00	msforza	Secondary		416F
+MJ45F6E	shaked	SMG518G	Microsoft Windows 7 Enterprise x64	518G	6/3/2016 17:14	LENOVO	3212BJ7	AD\shaked	8/1/2013 0:00	7/21/2017 0:00	shaked	Primary		518G
+R9F42KB	griswodr	SMG529LT	Microsoft Windows 7 Professional x64	529	9/29/2016 7:42	LENOVO	4243C13	AD\griswodr	7/29/2011 0:00	7/28/2015 0:00	griswodr	Primary		529
+2UA027123R	alyasoff	SMG554	Microsoft Windows 7 Professional x64	554	10/1/2016 19:09	Hewlett-Packard	HP Z800 Workstation	AD\alyasoff	7/12/2010 0:00	7/11/2013 0:00	alyasoff	Primary		554
+MJ49E1K	ali1	SMG522K-1	Microsoft Windows 7 Enterprise x64	522K	8/23/2016 12:19	LENOVO	3212BJ7	AD\ali1	8/3/2013 0:00	7/23/2017 0:00	tchad	Secondary		522K
+FMD0JL1	detemple	SMG546A-1	Microsoft Windows 7 Enterprise x64	546A	10/1/2016 19:38	Dell Inc.	Precision WorkStation T7500	SMG546A-1\istds-admin	12/1/2010 0:00	12/1/2014 0:00	detemple	Primary		546A
+MJ762AL	yerkin	QST-WD-0259	Microsoft Windows 7 Enterprise x64	589	10/1/2016 18:10	LENOVO	36901K3	AD\yerkin	5/26/2013 0:00	5/15/2017 0:00	yerkin	Primary		589
+MJYWGX3	donsmith	SMG522F	Microsoft Windows 7 Professional x64	522F	8/27/2015 9:38	LENOVO	4524A61	AD\donsmith	7/2/2011 0:00	7/1/2015 0:00	donsmith	Primary		522F
+R9Y3Y5V	nalink	QST-WL-0256	Microsoft Windows 7 Enterprise x64	536	5/31/2016 14:23	LENOVO	2355BE3	AD\nalink	8/8/2013 0:00	8/7/2017 0:00	nalink	Primary		536
+D25LJ0NTF8JC	dhackbar	SMG564MAC-2	Mac OS X 10.9.5 (x86)	564	5/11/2016 14:28	Apple/Intel	"iMac14,2"		10/21/2013 0:00	10/20/2016 0:00	dhackbar	Secondary		564
+C02LM08UFD58	dhackbar	SMG564MACLT-1	Mac OS X 10.11.6 (x86_64)	564	10/1/2016 18:58	"Apple, Inc."	"MacBookPro11,2"		11/5/2013 0:00	11/4/2016 0:00	dhackbar	Secondary		564
+PF00ABQC	rindisbm	SMG520CLT-1	Microsoft Windows 7 Professional x64	520C	9/29/2016 20:45	LENOVO	20AMA0DSUS	AD\rindisbm	12/29/2013 0:00	12/18/2017 0:00	rindisbm	Secondary		520C
+C02K72VADNMP	buffa	SMG532MAC-1	Mac macOS 10.12 (x86_64)	532	9/28/2016 17:26	"Apple, Inc."	"iMac13,2"		2/25/2013 0:00	2/24/2016 0:00	buffa	Primary		532
+MJ00ERMU	kosher	SMG522J	Microsoft Windows 7 Professional x64	522J	9/16/2016 10:51	LENOVO	10A6A03RUS	AD\kosher	3/4/2014 0:00	3/3/2018 0:00	kosher	Secondary		522J
+MJ0180S1	rindisbm	SMG520C	Microsoft Windows 7 Enterprise x64	520C	10/1/2016 18:24	LENOVO	10A6S19F00	AD\rindisbm	8/3/2014 0:00	8/3/2017 0:00	rindisbm	Primary		520C
+D25N606TF8JC	yunjeen	QST-MD-0104	Mac OS X 10.11.6 (x86_64)	548A	10/1/2016 19:47	"Apple, Inc."	"iMac14,2"		8/6/2014 0:00	8/5/2017 0:00	yunjeen	Primary		548A
+MP05MJ6V	nalink	QST-WD-0364	Microsoft Windows 10 Enterprise x64	536	9/29/2016 17:40	LENOVO	F0AM	AD\nalink	10/28/2014 0:00	10/27/2017 0:00	nalink	Secondary		536
+C02GJ3X6DRJL	lyandres	SMG546GMACLT-1	Mac OS X 10.9.5 (x86_64)	546G	12/20/2014 3:57	Apple/Intel	"MacBookPro8,2"		10/10/2011 0:00	10/9/2014 0:00	lyandres	Primary		546G
+4MLVWW1	detemple	QST-WL-0257	Microsoft Windows 10 Enterprise x64	546A	10/1/2016 14:34	Dell Inc.	XPS L421X	AD\detemple	2/17/2013 0:00	2/17/2016 0:00	detemple	Secondary		546A
+MJ01DGDD	jhdevoy	QST-WD-0223	Microsoft Windows 7 Enterprise x64	541	5/20/2016 10:59	LENOVO	10A6S07J00	QST-WD-0223\istds-admin	8/30/2014 0:00	8/29/2018 0:00	jhdevoy	Primary		541
+MJ01DGDF	jimwelch	SMG522C	Microsoft Windows 7 Enterprise x64		9/28/2016 16:25	LENOVO	10A6S07J00	AD\jimwelch	8/30/2014 0:00	8/29/2018 0:00	engwu	Primary		
+MJ02KF2P	robertsm	QST-WD-0217	Microsoft Windows 7 Enterprise x64	527	10/1/2016 19:19	LENOVO	10A6S25900	AD\robertsm	6/4/2015 0:00	6/3/2019 0:00	robertsm	Primary		527
+C02PTFNWFVH5	amichel	QST-ML-0213	Mac OS X 10.11.6 (x86_64)	522D	10/1/2016 18:31	"Apple, Inc."	"MacBookPro12,1"		7/1/2015 0:00	6/30/2018 0:00	amichel	Primary		522D
+R90G8BKT	kgriner	QST-WL-0234	Microsoft Windows 7 Enterprise x64	548C	10/1/2016 18:56	LENOVO	20BTS2BL00	AD\kgriner	6/13/2015 0:00	6/12/2019 0:00	kgriner	Primary		548C
+C02Q30HVF8J4	donsmith	QST-MD-0110	Mac OS X 10.11.6 (x86_64)	522 F	9/29/2016 21:13	"Apple, Inc."	"iMac14,2"		7/24/2015 0:00	7/23/2018 0:00	donsmith	Primary		522 F
+C02L2752FFT0	gas	Gustavos MacBook Pro	Mac OS X 10.11.6 (x86_64)	546B	10/1/2016 17:31	"Apple, Inc."	"MacBookPro10,1"		7/20/2013 0:00	7/19/2016 0:00	gas	Primary		546B
+MJ03VK6G	bpalazzo	QST-WD-0339	Microsoft Windows 10 Enterprise x64	522H	10/1/2016 18:13	LENOVO	30A4S0W500	AD\bpalazzo	4/30/2016 0:00	4/29/2020 0:00	bpalazzo	Primary		522H
+C02QMFEBGG7J	gsabin	QST-MD-0121	Mac OS X 10.11.6 (x86_64)	541	9/29/2016 15:38	"Apple, Inc."	"iMac17,1"		5/12/2016 0:00	5/12/2019 0:00	gsabin	Primary		541
+R90KLT8G	nalink	QST-WL-0270	Microsoft Windows 10 Enterprise x64	536	9/30/2016 10:57	LENOVO	20FCS1Y900	AD\nalink	5/21/2016 0:00	7/4/2019 0:00	nalink	Primary		536
+R90KTPQT	dspieler	QST-WL-0290	Microsoft Windows 10 Enterprise x64	539	10/1/2016 19:33	LENOVO	20FCS0VF00	AD\dspieler	6/14/2016 0:00	6/13/2020 0:00	dspieler	Primary		539
+6C0LJB2	detemple	QST-WD-0352	Microsoft Windows 10 Enterprise x64	546A	10/1/2016 19:48	Dell Inc.	Precision Tower 3620	AD\detemple	6/17/2016 0:00	6/20/2024 0:00	detemple	Secondary		546A
+PC0D6R7L	scottrob	QST-WL-0312	Microsoft Windows 10 Enterprise x64	658A	10/1/2016 13:52	LENOVO	20FMS1PD00	AD\scottrob	6/11/2016 0:00	6/10/2020 0:00	scottrob	Secondary		658A
+MJ042DH9	scottrob	QST-WD-0262	Microsoft Windows 10 Enterprise x64	548A	10/1/2016 19:06	LENOVO	10FXS05400	AD\scottrob	6/14/2016 0:00	6/13/2020 0:00	scottrob	Primary		548A
+MJ0479WK	kosher	QST-WD-0370	Microsoft Windows 10 Enterprise x64	522J	9/29/2016 15:53	LENOVO	10FCS05H00	AD\kosher	7/27/2016 0:00	7/26/2020 0:00	kosher	Primary		522J
+MJ0479KR	tchad	QST-WD-0371	Microsoft Windows 10 Enterprise x64	522K	10/1/2016 18:16	LENOVO	10FCS05H00	AD\tchad	7/27/2016 0:00	7/26/2020 0:00	tchad	Primary		522K
+D25S60VJGQ17	dhackbar	QST-MD-0137	Mac OS X 10.11.6 (x86_64)	564	9/29/2016 10:12	"Apple, Inc."	"iMac17,1"		8/18/2016 0:00	8/17/2019 0:00	dhackbar	Primary		564
+R90LFURX	lwhite81	QST-WL-0244	Microsoft Windows 10 Enterprise x64		10/1/2016 14:19	LENOVO	20FCS38G00	AD\lwhite81	11/30/-001 00:00:00	11/30/-001 00:00:00	lwhite81	Primary		
+MJRALFR	jccs	SMG615C-1	Microsoft Windows 7 Professional x64	615 C	10/1/2016 18:43	LENOVO	4223AF5	AD\jccs	7/28/2012 0:00	8/6/2015 0:00	jccs	Primary		615 C
+C02M64CLFH05	dell	SMG651MACLT-1	Mac OS X 10.9.5 (x86_64)	651	7/11/2016 17:32	"Apple, Inc."	"MacBookPro11,1"		2/19/2014 0:00	2/18/2017 0:00	dell	Primary		651
+2UA8500SY4	jwallen	SMG631-1	Microsoft Windows 7 Enterprise x64		10/1/2016 18:03	Hewlett-Packard	HP xw4600 Workstation	AD\jwallen	12/12/2008 0:00	1/5/2014 0:00	jwallen	Secondary		
+C02MJ4SVFH00	carlile	SMG635MACLT-1	Mac OS X 10.11.6 (x86_64)	635	10/1/2016 19:34	"Apple, Inc."	"MacBookPro11,1"		4/10/2014 0:00	4/9/2017 0:00	carlile	Primary		635
+36816433953	jwallen	QST-WL-0306	Microsoft Windows 10 Enterprise x64		9/6/2016 16:40	Microsoft Corporation	Surface Pro 2	.\Administrator	1/19/2014 0:00	1/18/2015 0:00	jwallen	Secondary		
+C02J71MYDKQ5	Guest	SMG641AMACLT	Mac OS X 10.11.1 (x86_64)	641A	11/28/2015 22:18	"Apple, Inc."	"MacBookPro10,1"		8/17/2012 0:00	8/16/2015 0:00	venkat	Secondary		641A
+PC03PTTX	swatts	SMG645LT-1	Microsoft Windows 7 Enterprise x64	645	9/26/2016 15:08	LENOVO	20ARS0DM00	AD\swatts	3/2/2015 0:00	3/1/2019 0:00	swatts	Secondary		645
+R90GHPUW	jwallen	QST-WL-0215	Microsoft Windows 7 Enterprise x64	631	10/1/2016 18:49	LENOVO	20BFS4KY00	AD\jwallen	7/10/2015 0:00	7/9/2019 0:00	jwallen	Primary		631
+R90GV8ZG	lveidenh	QST-WL-0237	Microsoft Windows 7 Enterprise x64	670	9/30/2016 11:55	LENOVO	20BFS4EA00	AD\lveidenh	8/12/2015 0:00	8/11/2019 0:00	halford	Primary		670
+R90GX54V	jccs	QST-WL-0239	Microsoft Windows 7 Enterprise x64	615C	9/29/2016 11:01	LENOVO	20BTS2BL00	AD\jccs	8/19/2015 0:00	8/18/2019 0:00	jccs	Secondary		615C
+R90KLT8F	blubin	QST-WL-0271	Microsoft Windows 10 Enterprise x64	621A	9/30/2016 12:48	LENOVO	20FCS1YA00	AD\blubin	5/22/2016 0:00	5/21/2020 0:00	blubin	Primary		621A
+C02JM7CVDV33	carlile	QST-ML-0231	Mac OS X 10.11.6 (x86_64)	635	10/1/2016 19:10	"Apple, Inc."	"MacBookPro9,1"		11/3/2012 0:00	11/2/2015 0:00	carlile	Secondary		635
+MJ046VT9	swatts	QST-WD-0368	Microsoft Windows 10 Enterprise x64	645	10/1/2016 18:17	LENOVO	10FCS05H00	AD\swatts	7/20/2016 0:00	7/19/2020 0:00	swatts	Primary		645
+MJ45F5Z	patk	QST-WD-0203	Microsoft Windows 7 Enterprise x64	661	10/1/2016 18:45	LENOVO	3212BJ7	AD\patk	8/1/2013 0:00	7/21/2017 0:00	patk	Primary		661
+MJ53Z3T	monic	SMG671-1	Microsoft Windows 7 Enterprise x64	671	4/19/2016 1:36	LENOVO	3212BJ7	AD\monic	8/4/2013 0:00	7/24/2017 0:00	monic	Primary		671
+2UA838183K	utter	QST-WD-0367	Microsoft Windows 7 Professional	627	10/1/2016 18:22	Hewlett-Packard	HP xw4600 Workstation	AD\ali1	9/21/2008 0:00	9/27/2013 0:00	utter	Secondary		627
+MJ004NV5	bickart	SMG669-1	Microsoft Windows 7 Professional x64		8/15/2016 7:29	LENOVO	30A2A038US	AD\bickart	12/29/2013 0:00	12/18/2017 0:00	bickart	Primary		
+MJ00ERMY	brunel	QST-WD-0308	Microsoft Windows 7 Professional x64	659	10/1/2016 18:43	LENOVO	10A6A03RUS	AD\brunel	3/4/2014 0:00	3/3/2018 0:00	brunel	Primary		659
+MJ0023TV	monic	SMG671-2	Microsoft Windows 7 Professional x64	671	10/1/2016 16:28	LENOVO	10A6CTO1WW	AD\monic	11/30/-001 00:00:00	11/30/-001 00:00:00	monic	Secondary		671
+C02MV88XF6T6	morewedg	SMG614MACLT-1	Mac OS X 10.9.5 (x86_64)	614	9/27/2016 14:57	"Apple, Inc."	"MacBookAir6,2"		6/16/2014 0:00	6/15/2017 0:00	morewedg	Primary		614
+MJ01B597	monic	QST-WD-0325	Microsoft Windows 7 Enterprise x64	671	10/1/2016 19:37	LENOVO	10A6S07J00	AD\monic	8/14/2014 0:00	8/13/2018 0:00	monic	Primary		671
+18275543853	rtrudel	SMG658BLT	Microsoft Windows 8.1 Pro x64		10/1/2016 17:38	Microsoft Corporation	Surface Pro 3	AD\rtrudel	12/24/2014 0:00	12/23/2015 0:00	rtrudel	Secondary		
+C1MPT0AUG944	hambrick	QST-ML-0208	Mac OS X 10.10.5 (x86_64)	666	10/1/2016 15:21	"Apple, Inc."	"MacBookAir7,2"		6/3/2015 0:00	6/2/2018 0:00	hambrick	Primary		666
+C02PV2YZF8J4	earlride	QST-MD-0102	Mac macOS 10.12 (x86_64)	546E	10/1/2016 19:53	"Apple, Inc."	"iMac14,2"		6/23/2015 0:00	6/22/2018 0:00	earlride	Primary		546E
+R90G3E1K	ssrini	QST-WL-0212	Microsoft Windows 7 Enterprise x64	658C	10/1/2016 18:19	LENOVO	20BTS2BL00	AD\ssrini	5/31/2015 0:00	5/30/2019 0:00	ssrini	Secondary		658C
+C1MQ31RXG944	sjgrant	QST-ML-0216	Mac OS X 10.11.6 (x86_64)	617A	10/1/2016 16:14	"Apple, Inc."	"MacBookAir7,2"		7/15/2015 0:00	7/14/2018 0:00	sjgrant	Primary		617A
+R90GT9RZ	menezes	QST-WL-0236	Microsoft Windows 7 Enterprise x64	617	8/18/2016 14:33	LENOVO	20BTS2BL00	AD\menezes	8/7/2015 0:00	8/6/2019 0:00	menezes	Secondary		617
+C2QN70NLFKYQ	smbaum	QST-ML-0222	Mac OS X 10.10.5 (x86_64)	614	10/1/2016 15:33	"Apple, Inc."	"MacBookAir6,2"		9/18/2014 0:00	9/17/2015 0:00	morewedg	Shared		614
+C02Q5E2WG8WN	patk	QST-ML-0223	Mac OS X 10.10.5 (x86_64)	661	10/1/2016 9:50	"Apple, Inc."	"MacBookPro11,4"		9/2/2015 0:00	9/1/2018 0:00	patk	Secondary		661
+PC08ZGPU	monic	QST-WL-0246	Microsoft Windows 7 Enterprise x64	671	9/29/2016 9:48	LENOVO	20BXCTO1WW	AD\monic	11/30/-001 00:00:00	11/30/-001 00:00:00	monic	Secondary		671
+C02RGPYAFVH5	utter	QST-ML-0226	Mac OS X 10.11.6 (x86_64)	670	10/1/2016 18:38	"Apple, Inc."	"MacBookPro12,1"		4/7/2016 0:00	4/6/2019 0:00	utter	Primary		670
+C02QD35GGG7J	rclarke	QST-MD-0122	Mac OS X 10.11.6 (x86_64)	609	10/1/2016 19:04	"Apple, Inc."	"iMac17,1"		5/31/2016 0:00	5/30/2019 0:00	rclarke	Primary		609
+C1MRQ315H3QK	altucker	QST-ML-0227	Mac OS X 10.11.6 (x86_64)	658A	10/1/2016 19:58	"Apple, Inc."	"MacBookAir7,2"		5/20/2016 0:00	5/19/2019 0:00	altucker	Primary		658A
+C02R30CXGG78	clongoni	QST-MD-0125	Mac OS X 10.11.6 (x86_64)	619	10/1/2016 19:56	"Apple, Inc."	"iMac16,2"		5/25/2016 0:00	5/24/2019 0:00	clongoni	Primary		619
+C02RR05EG8WL	dkupor	QST-ML-0202	Mac OS X 10.11.6 (x86_64)	619A	10/1/2016 18:03	"Apple, Inc."	"MacBookPro11,4"		5/26/2016 0:00	5/25/2019 0:00	dkupor	Primary		619A
+C02RT229GG7L	bickart	QST-MD-0134	Mac OS X 10.11.6 (x86_64)	669	10/1/2016 18:34	"Apple, Inc."	"iMac17,1"		8/3/2016 0:00	8/2/2019 0:00	bickart	Secondary		669
+C02S44JVGG7J	mehrenre	QST-MD-0136	Mac OS X 10.11.6 (x86_64)	604	9/29/2016 11:51	"Apple, Inc."	"iMac17,1"		8/3/2016 0:00	8/2/2019 0:00	mehrenre	Primary		604
+MJ45F6C	davidr	QST-WD-0351	Microsoft Windows 7 Enterprise x64	644	7/20/2016 9:04	LENOVO	3212BJ7	AD\davidr	8/1/2013 0:00	7/21/2017 0:00	davidr	Secondary		644
+D25FN0V1DHJV	kkchang	SMG637MAC-1	Mac OS X 10.11.6 (x86_64)	637	10/1/2016 16:33	"Apple, Inc."	"iMac12,2"		5/6/2011 0:00	5/5/2014 0:00	kkchang	Primary		637
+PK05B9H	gmpowers	QST-WL-0269	Microsoft Windows 10 Enterprise x64	640A	8/30/2016 13:52	LENOVO	2355BE3	AD\gmpowers	8/4/2013 0:00	7/24/2017 0:00	gmpowers	Primary		640A
+MJRLPRF	lagha	SMG634A-1	Microsoft Windows 7 Professional x64	634A	6/27/2016 11:07	LENOVO	3212AV7	AD\lagha	8/21/2012 0:00	8/11/2016 0:00	lagha	Primary		634A
+PK2LARM	rebitzer	QST-WL-0248	Microsoft Windows 7 Enterprise x64	637 A	10/1/2016 19:42	LENOVO	3448AR2	AD\rebitzer	2/1/2014 0:00	1/31/2018 0:00	rebitzer	Secondary		637 A
+C02MV4A8FD56	fatema1	SMG548AMACLT-1	Mac OS X 10.9.5 (x86_64)	620	10/1/2016 18:52	"Apple, Inc."	"MacBookPro11,2"		6/14/2014 0:00	6/13/2017 0:00	fatema1	Primary		620
+MJ017J69	abcohen	QST-WD-0116	Microsoft Windows 7 Enterprise x64	53 Bay State Road. Room 210	10/1/2016 18:07	LENOVO	10A6S07J00	AD\abcohen	7/23/2014 0:00	7/22/2018 0:00	abcohen	Primary		53 Bay State Road. Room 210
+R90F5FUP	kericson	SMG615BLT-2	Microsoft Windows 10 Pro x64	615B	9/30/2016 10:02	LENOVO	20BTS0L500	AD\kericson	2/9/2015 0:00	2/8/2019 0:00	kericson	Secondary		615B
+MJ033D9J	kericson	QST-WD-0316	Microsoft Windows 7 Enterprise x64	615B	10/1/2016 19:40	LENOVO	10A6S2JT00	AD\kericson	10/10/2015 0:00	10/9/2019 0:00	kericson	Primary		615B
+R90J7UK9	pfoxp	QST-WL-0252	Microsoft Windows 7 Enterprise x64	514B	10/1/2016 11:34	LENOVO	20BTS2BL00	AD\pfoxp	12/10/2015 0:00	12/9/2019 0:00	pfoxp	Primary		514B
+C02RP31ZG8WL	ssamuels	QST-WL-0273	Microsoft Windows 10 Enterprise x64	643A	10/1/2016 19:41	Apple Inc.	"MacBookPro11,4"	AD\ssamuels	6/16/2016 0:00	6/16/2019 0:00	ssamuels	Primary		643A
+PC0CST8H	jwoodson	QST-WL-0280	Microsoft Windows 10 Enterprise x64	515E	9/30/2016 13:59	LENOVO	20FAS1MA00	AD\jwoodson	5/25/2016 0:00	5/24/2020 0:00		Primary		515E
+C02R2554GG78	davidrbu.edu	QST-MD-0124	Mac OS X 10.11.6 (x86_64)	644	10/1/2016 19:56	"Apple, Inc."	"iMac16,2"		7/8/2016 0:00	7/7/2019 0:00	davidr	Primary		644
+PC0E8X2V	gmpowers	QST-WL-0304	Microsoft Windows 10 Enterprise x64	640A-2	10/1/2016 18:48	LENOVO	20FAS4SF00	AD\gmpowers	7/29/2016 0:00	7/28/2020 0:00	gmpowers	Primary		640A-2
+MJPBXNB	ytlee	QST-WD-0347	Microsoft Windows 7 Enterprise x64	668	8/10/2016 11:48	LENOVO	4524AY5	AD\ytlee	7/5/2012 0:00	6/25/2016 0:00	ytlee	Primary		668
+MJ762AN	ali1	QST-WD-0321	Microsoft Windows 7 Enterprise x64	606	8/23/2016 15:59	LENOVO	36901K3	AD\ali1	5/26/2013 0:00	5/15/2017 0:00	bird33	Secondary		606
+MJ49E1L	jres	QST-WD-0302	Microsoft Windows 7 Enterprise x64	663	8/18/2016 13:13	LENOVO	3212BJ7	AD\jres	8/3/2013 0:00	7/23/2017 0:00	jres	Primary		663
+MJ49E1P	bkadets	QST-WD-0344	Microsoft Windows 7 Enterprise x64	656A	7/18/2016 11:20	LENOVO	3212BJ7	AD\bkadets	8/3/2013 0:00	7/23/2017 0:00	bkadets	Secondary		656A
+MJ761ZA	remaurer	QST-WD-0258	Microsoft Windows 7 Enterprise x64	650	9/2/2016 7:23	LENOVO	36901K3	AD\remaurer	5/26/2013 0:00	5/15/2017 0:00	remaurer	Primary		650
+MJWZXE1	smgitsse	QST-WD-0206	Microsoft Windows 7 Enterprise x64	644A	10/1/2016 19:36	LENOVO	4524A61	QST-WD-0206\istds-admin	6/16/2011 0:00	6/15/2015 0:00	fcharvet	Primary		644A
+MJ92M7P	jheineke	QST-WD-0222	Microsoft Windows 7 Enterprise x64	669A	10/1/2016 18:38	LENOVO	3212BJ7	AD\jheineke	8/27/2013 0:00	8/16/2017 0:00	jheineke	Primary		669A
+MJPBXNF	cwnewell	SMG656B-1	Microsoft Windows 7 Enterprise x64	656B	10/1/2016 18:21	LENOVO	4524AY5	AD\cwnewell	7/5/2012 0:00	6/25/2016 0:00	cwnewell	Primary		656B
+R9F42K9	rnichols	SMG648LT-1	Microsoft Windows 7 Professional x64	648	6/30/2016 7:41	LENOVO	4243C13	AD\rnichols	7/29/2011 0:00	7/28/2015 0:00	rnichols	Primary		648
+C02KGQ4XDNCV	janelle	SMG669AMAC-1	Mac OS X 10.11.6 (x86_64)	669A	10/1/2016 19:09	"Apple, Inc."	"iMac13,2"		6/29/2013 0:00	6/28/2016 0:00	jheineke	Secondary		669A
+R9V6N0F	mshwartz	QST-WL-0243	Microsoft Windows 7 Enterprise x64	665	4/19/2016 7:41	LENOVO	2355BE3	AD\mshwartz	11/7/2012 0:00	11/7/2016 0:00	mshwartz	Secondary		665
+C02LL4LPF6T6	jheineke	SMG669AMACLT-1	Mac OS X 10.9.5 (x86_64)	669A	6/17/2016 12:48	"Apple, Inc."	"MacBookAir6,2"		10/28/2013 0:00	10/27/2016 0:00	jheineke	Secondary		669A
+38180142353	rnichols	SMG648LT-2	Microsoft Windows 8.1 Pro x64		10/1/2016 19:59	Microsoft Corporation	Surface Pro 3	AD\rnichols	9/18/2014 0:00	9/17/2015 0:00	rnichols	Secondary		
+R902K58F	jjaeker	QST-WL-0266	Microsoft Windows 7 Enterprise x64	657A	10/1/2016 17:38	LENOVO	20A8A0A5US	AD\jjaeker	6/20/2014 0:00	6/19/2018 0:00	jjaeker	Primary		657A
+R90FYXZU	ytlee	QST-WL-0202	Microsoft Windows 7 Enterprise x64	660	9/30/2016 16:55	LENOVO	20A8S2PA00	AD\ytlee	5/16/2015 0:00	5/15/2019 0:00	ytlee	Secondary		660
+MJ02KDS4	mshwartz	QST-WD-0212	Microsoft Windows 7 Enterprise x64	665	10/1/2016 18:31	LENOVO	10A6S25900	AD\mshwartz	6/4/2015 0:00	6/3/2019 0:00	mshwartz	Primary		665
+34181451753	cwnewell	QST-WL-0217	Microsoft Windows 8.1 Pro x64	656B	9/30/2016 21:21	Microsoft Corporation	Surface Pro 3	AD\cwnewell	9/24/2015 0:00	9/25/2016 0:00	cwnewell	Secondary		656B
+C02PX3K1G8WN	aakkas	QST-ML-0217	Mac OS X 10.10.5 (x86_64)	601	10/1/2016 19:55	"Apple, Inc."	"MacBookPro11,4"		7/20/2015 0:00	7/19/2018 0:00	aakkas	Primary		601
+C02Q32NVFVH8	bellamym	QST-ML-0218	Mac OS X 10.11.6 (x86_64)	673	9/30/2016 15:12	"Apple, Inc."	"MacBookPro12,1"		7/17/2015 0:00	7/16/2018 0:00	bellamym	Primary		673
+37830754953	jheineke	QST-WL-0253	Microsoft Windows 10 Pro x64	669A	9/23/2016 13:45	Microsoft Corporation	Surface Pro 4	AD\jheineke	3/4/2016 0:00	3/2/2020 0:00	jheineke	Secondary		669A
+MJ03TNKB	pekoz	QST-WD-0294	Microsoft Windows 10 Enterprise x64	607	10/1/2016 18:28	LENOVO	10FCS05H00	AD\pekoz	4/15/2016 0:00	4/14/2020 0:00	pekoz	Primary		607
+R90KCV94	pmorriso	QST-WL-0267	Microsoft Windows 7 Enterprise x64	627A	9/30/2016 14:40	LENOVO	20BFS4EA00	AD\pmorriso	4/14/2016 0:00	4/13/2020 0:00	pmorriso	Primary		627A
+MJ03UWBW	srrosent	QST-WD-0338	Microsoft Windows 10 Enterprise x64	560	10/1/2016 18:27	LENOVO	10FCS05H00	AD\srrosent	4/27/2016 0:00	4/26/2020 0:00	srrosent	Primary		560
+F5KRJ0D1F9VN	istds-admin	QST-WD-0221	Microsoft Windows 10 Enterprise x64	655	9/14/2016 12:41	Apple Inc.	"MacPro6,1"	.\istds-admin	4/7/2016 0:00	4/7/2019 0:00	ren	Secondary		655
+F5KRJ0D1F9VN	istds-admin	QST-MD-0123	Mac OS X 10.11.5 (x86_64)	655	9/14/2016 12:59	"Apple, Inc."	"MacPro6,1"		4/7/2016 0:00	4/7/2019 0:00	ren	Primary		655
+R90KV98K	rnichols	QST-WL-0301	Microsoft Windows 10 Enterprise x64	648	10/1/2016 19:49	LENOVO	20FCS0VF00	AD\rnichols	6/20/2016 0:00	6/19/2020 0:00	rnichols	Primary		648
+MJ0421KF	ytlee	QST-WD-0349	Microsoft Windows 10 Enterprise x64	668	10/1/2016 19:20	LENOVO	10FCS05H00	AD\ytlee	6/11/2016 0:00	6/10/2020 0:00	ytlee	Primary		668
+C02RTJA6FVH5	bkadets	QST-ML-0232	Mac OS X 10.11.6 (x86_64)	656A	10/1/2016 17:26	"Apple, Inc."	"MacBookPro12,1"		7/7/2016 0:00	7/6/2019 0:00	bkadets	Primary		656A
+MJ046W1A	joglekar	QST-WD-0267	Microsoft Windows 10 Enterprise x64	675	10/1/2016 19:05	LENOVO	10FCS05H00	AD\joglekar	7/20/2016 0:00	7/19/2020 0:00	joglekar	Primary		675
+C02S33PPGG7L	jres	QST-MD-0132	Mac OS X 10.11.6 (x86_64)	633	9/28/2016 23:52	"Apple, Inc."	"iMac17,1"		8/3/2016 0:00	8/2/2019 0:00	jres	Primary		633
+C02S403SGG7L	bird33	QST-MD-0135	Mac OS X 10.11.6 (x86_64)	606	10/1/2016 19:56	"Apple, Inc."	"iMac17,1"		8/3/2016 0:00	8/2/2019 0:00	bird33	Primary		606
+R90L7UNH	jrdixon	QST-WL-0259	Microsoft Windows 10 Enterprise x64	661A	10/1/2016 19:16	LENOVO	20FCS0VF00	AD\jrdixon	8/4/2016 0:00	8/3/2020 0:00	jrdixon	Secondary		661A
+C02LD0Z6F5N8	kmac	SMG501MACLT-1	Mac OS X 10.11.6 (x86_64)	501	9/30/2016 15:29	"Apple, Inc."	"MacBookAir6,1"		10/4/2013 0:00	10/3/2016 0:00	kmac	Secondary		501
+2UA8300Z1M	lmmyka	QST-WD-0240	Microsoft Windows 7 Professional	343 A	7/24/2015 2:00	Hewlett-Packard	HP xw4600 Workstation	AD\lmmyka	7/27/2008 0:00	8/2/2014 0:00	nelee	Shared		343 A
+MJ45F5X	kmac	SMG501-1	Microsoft Windows 7 Enterprise x64	501	8/18/2016 14:45	LENOVO	3212BJ7	AD\kmac	8/1/2013 0:00	7/21/2017 0:00	kmac	Primary		501
+MJ49E1T	dthall	SMG558-1	Microsoft Windows 7 Enterprise x64	558	6/2/2016 1:30	LENOVO	3212BJ7	AD\dthall	8/3/2013 0:00	7/23/2017 0:00	dthall	Primary		558
+MJ761YH	emsull	QST-WD-0374	Microsoft Windows 10 Enterprise x64	628	9/30/2016 9:18	LENOVO	36901K3	AD\emsull	5/26/2013 0:00	5/15/2017 0:00	lbaird	Shared		628
+MJ45F6B	frenchjd	SMG616-1	Microsoft Windows 7 Enterprise x64	616	10/1/2016 19:29	LENOVO	3212BJ7	AD\frenchjd	8/1/2013 0:00	7/21/2017 0:00	frenchjd	Primary		616
+MJ761YR	susilo2	QST-WD-0252	Microsoft Windows 7 Enterprise x64	515C	9/29/2016 15:46	LENOVO	36901K3	AD\susilo2	5/26/2013 0:00	5/15/2017 0:00	hartman1	Shared		515C
+C02HN0DUDHJP	sdeacon	QST-WD-0204	Microsoft Windows 7 Professional x64	633	10/1/2016 19:48	Apple Inc.	"iMac12,2"	AD\sdeacon	7/14/2012 0:00	7/14/2015 0:00	sdeacon	Primary		633
+CND0350NRP	mbarton	SMG616LT	Microsoft Windows 7 Professional	623	6/30/2015 14:14	Hewlett-Packard	HP EliteBook 8440p	AD\mbarton	9/3/2014 0:00	9/2/2014 0:00	mbarton	Reserve		623
+2UA8291Q0S	rtsulliv	SMG632A-1	Microsoft Windows 7 Professional	633 A	10/1/2016 18:34	Hewlett-Packard	HP xw4600 Workstation	AD\rtsulliv	7/23/2008 0:00	8/26/2013 0:00	rtsulliv	Shared		633 A
+R9KWBE0	jackmc	SMG552LT-2	Microsoft Windows 7 Professional x64		4/16/2016 4:56	LENOVO	4174WK1	AD\jackmc	12/26/2011 0:00	1/4/2016 0:00	jackmc	Secondary		
+C02LN0E3F5YW	kekram	SMG647AMACLT-1	Mac OS X 10.9.5 (x86_64)	504	5/17/2016 18:06	Apple/Intel	"MacBookAir6,1"		11/7/2013 0:00	11/6/2016 0:00	kekram	Secondary		504
+C02L5C7KF8J4	istds-admin	SMG619AMAC-1	Mac OS X 10.11.5 (x86_64)	619A	7/15/2016 10:47	"Apple, Inc."	"iMac14,2"		10/14/2013 0:00	10/13/2016 0:00	eheaphy	Primary		619A
+MJ19TYV	tharper	QST-WD-0293	Microsoft Windows 7 Professional x64	104Q	6/13/2016 9:50	LENOVO	3212BJ7	AD\tharper	12/9/2013 0:00	11/28/2017 0:00	tharper	Secondary		104Q
+MJ008E08	yjc256	SMG571	Microsoft Windows 7 Professional x64	635	5/9/2016 10:11	LENOVO	10A6A03RUS	AD\yjc256	1/23/2014 0:00	1/22/2018 0:00	yjc256	Secondary		635
+5085340253	asodano	SMG570LT-1	Microsoft Windows 8.1 Pro x64	570	10/12/2015 20:24	Microsoft Corporation	Surface Pro 2	AD\asodano	4/10/2014 0:00	4/9/2015 0:00	asodano	Primary		570
+D25M207AF8J4	istds-admin	SMG502DMAC-1	Mac OS X 10.11.6 (x86_64)	502D	10/1/2016 19:47	"Apple, Inc."	"iMac14,2"		1/28/2014 0:00	1/27/2017 0:00	kekram	Primary		502D
+C02LX4TEF8J4	wkahn	SMG653MAC-1	Mac OS X 10.10.5 (x86_64)	653	10/1/2016 12:07	"Apple, Inc."	"iMac14,2"		2/17/2014 0:00	2/16/2017 0:00	wkahn	Primary		653
+MJ00ERWJ	ffoulkes	SMG550-1	Microsoft Windows 7 Professional x64	550	10/1/2016 18:20	LENOVO	10A6A03RUS	AD\ffoulkes	3/1/2014 0:00	2/28/2018 0:00	ffoulkes	Primary		550
+2UA8500SXY	wbachman	SMG618A	Microsoft Windows 7 Enterprise x64	618 A	10/1/2016 19:41	Hewlett-Packard	HP xw4600 Workstation	AD\wbachman	12/12/2008 0:00	1/5/2014 0:00	mcpereir	Primary		618 A
+2UA838183L	tanastas	SMG632-1	Microsoft Windows 7 Enterprise x64	632	10/1/2016 19:24	Hewlett-Packard	HP xw4600 Workstation	AD\tanastas	9/21/2008 0:00	10/28/2013 0:00	levindj	Shared		632
+C1MMGW3XDTY3	jmando	SMG545MACLT	Mac OS X 10.11.4 (x86_64)	545	10/1/2016 14:52	"Apple, Inc."	"MacBookPro9,2"		6/9/2014 0:00	6/8/2017 0:00	jmando	Primary		545
+MJ01AGC0	kgbiddle	SMG647A-1	Microsoft Windows 7 Enterprise x64	647A	10/1/2016 18:18	LENOVO	30AJS03T00	AD\kgbiddle	8/28/2014 0:00	8/28/2017 0:00	kgbiddle	Primary		647A
+48246443453	kgbiddle	SMG647ALT	Microsoft Windows 8.1 Pro x64	647A	8/25/2016 16:11	Microsoft Corporation	Surface Pro 3	AD\kgbiddle	12/16/2014 0:00	12/15/2015 0:00	kgbiddle	Secondary		647A
+PF01CR90	dstolow	SMG525LT	Microsoft Windows 7 Enterprise x64	525	10/1/2016 18:17	LENOVO	20ARA05BUS	AD\dstolow	6/6/2014 0:00	6/5/2018 0:00	dstolow	Primary		525
+C02NH16DG3QP	mbarton	SMG623MACLT-1	Mac OS X 10.11.6 (x86_64)	623	10/1/2016 19:41	"Apple, Inc."	"MacBookPro11,3"		10/7/2014 0:00	10/6/2017 0:00	mbarton	Primary		623
+Parallels-1F B8 B3 65 8B DF 44 18 A0 A3 D3 0C 6B D1 51 91	mbarton	SMG623LT-1	Microsoft Windows 7 Enterprise x64	623	9/8/2015 9:22	Parallels Software International Inc.	Parallels Virtual Platform	AD\mbarton	11/30/-001 00:00:00	11/30/-001 00:00:00	mbarton	Secondary		623
+C02NK5JUG5RP	jackmc	SMG522MACLT-1	Mac OS X 10.9.5 (x86_64)	5th floor	10/1/2016 17:59	"Apple, Inc."	"MacBookAir6,2"		10/27/2014 0:00	10/26/2017 0:00	jackmc	Primary		5th floor
+R9KEMGG	aimin	SMG643LT-2	Microsoft Windows 7 Professional x64	643	4/25/2016 20:16	LENOVO	4243VKK	AD\aimin	12/11/2011 0:00	12/10/2015 0:00	aimin	Primary		643
+C02H98SMDHJP	lbaird	SMG564MAC-1	Mac OS X 10.11.6 (x86_64)	502A	10/1/2016 19:54	"Apple, Inc."	"iMac12,2"		4/5/2012 0:00	4/4/2015 0:00	lbaird	Primary		502A
+C02PMBJPFVH7	eheaphy	QST-ML-0201	Mac OS X 10.10.5 (x86_64)	619A	10/1/2016 19:54	"Apple, Inc."	"MacBookPro12,1"		5/6/2015 0:00	5/5/2018 0:00	eheaphy	Secondary		619A
+C02PN58HFVH5	sdeacon	QST-ML-0209	Mac OS X 10.10.5 (x86_64)	633	10/1/2016 18:05	"Apple, Inc."	"MacBookPro12,1"		6/17/2015 0:00	6/16/2018 0:00	sdeacon	Secondary		633
+C02PX302FVH5	kscrowe	QST-ML-0211	Mac OS X 10.11.6 (x86_64)	556	10/1/2016 19:16	"Apple, Inc."	"MacBookPro12,1"		6/25/2015 0:00	6/24/2018 0:00	kscrowe	Secondary		556
+MJ02PXKS	hartman1	QST-WD-0226	Microsoft Windows 7 Enterprise x64	515 D	10/1/2016 18:26	LENOVO	10A6S25900	AD\hartman1	6/29/2015 0:00	6/28/2019 0:00	hartman1	Primary		515 D
+R90GH5GM	asodano	QST-WL-0216	Microsoft Windows 7 Enterprise x64	570	9/29/2016 16:38	LENOVO	20BTS2BL00	AD\asodano	7/10/2015 0:00	7/9/2019 0:00	asodano	Secondary		570
+R90J7KP8	kgbiddle	QST-WL-0250	Microsoft Windows 7 Enterprise x64	647A	10/1/2016 19:29	LENOVO	20BFS4EA00	AD\kgbiddle	12/8/2015 0:00	12/7/2019 0:00	kgbiddle	Secondary		647A
+C02RF0SHGFWN	lbaird	QST-ML-0225	Mac OS X 10.11.6 (x86_64)	502A	10/1/2016 19:35	"Apple, Inc."	"MacBookAir7,1"		4/7/2016 0:00	4/6/2019 0:00	lbaird	Primary		502A
+C02RD019GG7J	kscrowe	QST-MD-0118	Mac OS X 10.11.6 (x86_64)	556	10/1/2016 15:13	"Apple, Inc."	"iMac17,1"		4/21/2016 0:00	4/20/2019 0:00	kscrowe	Primary		556
+MJ03TMQX	yjc256	QST-WD-0295	Microsoft Windows 10 Enterprise x64	571	10/1/2016 18:17	LENOVO	10FCS05H00	AD\yjc256	4/15/2016 0:00	4/14/2020 0:00	yjc256	Primary		571
+PC0CSU1R	rouse	QST-WL-0279	Microsoft Windows 10 Enterprise x64	613	9/30/2016 12:45	LENOVO	20FAS1MA00	AD\rouse	5/26/2016 0:00	5/25/2020 0:00	rouse	Primary		613
+PC0D2MY2	jackmc	QST-WL-0300	Microsoft Windows 10 Enterprise x64	552	10/1/2016 19:21	LENOVO	20FMS1LU00	AD\jackmc	6/6/2016 0:00	6/5/2020 0:00	jackmc	Secondary		552
+PC0CSUGM	pjhutch	QST-WL-0349	Microsoft Windows 10 Enterprise x64	642A	9/30/2016 20:43	LENOVO	20FAS1MA00	AD\pjhutch	5/25/2016 0:00	5/24/2020 0:00	pjhutch	Primary		642A
+MJ04A0BT	kmac	QST-WD-0372	Microsoft Windows 10 Enterprise x64	501	10/1/2016 19:05	LENOVO	10FCS05H00	AD\kmac	8/10/2016 0:00	8/9/2020 0:00	kmac	Primary		501
+W80344H8DB6	somahony	SMG658AMAC-1	Mac OS X 10.10.5 (x86_64)	Home	10/1/2016 17:04	"Apple, Inc."	"iMac11,3"		11/4/2010 0:00	11/3/2013 0:00	somahony	Secondary		Home
+C02KX0D1F8J5	somahony	QST-MD-0103	Mac OS X 10.11.6 (x86_64)	647	10/1/2016 19:36	"Apple, Inc."	"iMac14,2"		2/26/2014 0:00	2/25/2017 0:00	somahony	Primary		647
+MJ00ESAG	furman	QST-WD-0249	Microsoft Windows 7 Enterprise x64	653A	10/1/2016 18:42	LENOVO	M93P10A6TA3	AD\furman	3/4/2014 0:00	3/3/2018 0:00	furman	Primary		653A
+C02NR322G5RP	grodal	SMG657MACLT-1	Mac OS X 10.9.5 (x86_64)	657	10/1/2016 15:06	"Apple, Inc."	"MacBookAir6,2"		11/28/2014 0:00	11/27/2017 0:00	grodal	Primary		657
+C1MPQ6DYG944	prrusso	QST-ML-0205	Mac OS X 10.11.6 (x86_64)	502B	10/1/2016 19:07	"Apple, Inc."	"MacBookAir7,2"		5/23/2015 0:00	5/22/2018 0:00	prrusso	Primary		502B
+C02PM6EBFVH7	ianmash	QST-ML-0203	Mac OS X 10.11.6 (x86_64)	143 Bay State Rd - Room 302	10/1/2016 16:14	"Apple, Inc."	"MacBookPro12,1"		5/26/2015 0:00	5/25/2018 0:00	ianmash	Primary		143 Bay State Rd - Room 302
+C02PWAKWG8WN	gstoller	QST-ML-0212	Mac OS X 10.10.5 (x86_64)	143 Bay state Road: Room 303	10/1/2016 19:07	"Apple, Inc."	"MacBookPro11,4"		6/25/2015 0:00	6/24/2018 0:00	gstoller	Primary		143 Bay state Road: Room 303
+C02Q20FBGFWK	pcosway	QST-ML-0215	Mac OS X 10.11.6 (x86_64)	656C	9/30/2016 15:09	"Apple, Inc."	"MacBookAir7,1"		7/9/2015 0:00	7/8/2018 0:00	pcosway	Primary		656C
+C02P232LFY11	tsimcoe	QST-MD-0108	Mac OS X 10.11.6 (x86_64)	641	10/1/2016 15:00	"Apple, Inc."	"iMac15,1"		7/16/2015 0:00	7/15/2018 0:00	tsimcoe	Primary		641
+R90GP2BL	jalipuma	QST-WL-0232	Microsoft Windows 7 Enterprise x64	"143 Bay State Rd, Room 502"	10/1/2016 19:06	LENOVO	20BTS2BL00	AD\jalipuma	7/23/2015 0:00	7/22/2019 0:00	jalipuma	Primary		"143 Bay State Rd, Room 502"
+C02R906GGG7N	kfab	QST-MD-0117	Mac OS X 10.11.6 (x86_64)	651A	10/1/2016 19:47	"Apple, Inc."	"iMac17,1"		4/6/2016 0:00	4/5/2019 0:00	kfab	Primary		651A
+MJ03ZTGT	cflammer	QST-WD-0361	Microsoft Windows 10 Enterprise x64	634A	9/23/2016 16:46	LENOVO	10FCS05H00	AD\cflammer	6/2/2016 0:00	6/1/2020 0:00	cflammer	Primary		634A
+R90KPQHN	cflammer	QST-WL-0262	Microsoft Windows 10 Enterprise x64	634A	10/1/2016 19:30	LENOVO	20FCS0VF00	AD\cflammer	5/31/2016 0:00	5/30/2020 0:00	cflammer	Secondary		634A
+MJ761YA	emsull	QST-WD-0248	Microsoft Windows 7 Enterprise x64	120	5/19/2016 0:17	LENOVO	36901K3	AD\emsull	5/25/2013 0:00	5/14/2017 0:00	emsull	Primary		120
+MJPBXNC	rsharit	QST-WD-0286	Microsoft Windows 7 Enterprise x64	112A	6/16/2016 9:59	LENOVO	4524AY5	AD\rsharit	7/5/2012 0:00	6/25/2016 0:00	rsharit	Secondary		112A
+MJ761ZL	ivankap	QST-WD-0282	Microsoft Windows 7 Professional x64	110A	4/21/2016 2:00	LENOVO	36901K3	AD\ivankap	5/26/2013 0:00	5/15/2017 0:00	ivankap	Secondary		110A
+MJ19TYL	dvariti	QST-WD-0287	Microsoft Windows 7 Professional x64	112D	4/21/2016 1:43	LENOVO	3212BJ7	AD\dvariti	12/9/2013 0:00	11/28/2017 0:00	dvariti	Primary		112D
+MJ19TZE	racheld2	QST-WD-0229	Microsoft Windows 7 Professional x64	104S	6/10/2016 9:14	LENOVO	3212BJ7	AD\racheld2	12/9/2013 0:00	11/28/2017 0:00	racheld2	Secondary		104S
+MJ19TZB	josephfs	QST-WD-0289	Microsoft Windows 7 Professional x64	110C	6/21/2016 13:48	LENOVO	3212BJ7	AD\josephfs	12/9/2013 0:00	11/28/2017 0:00	josephfs	Primary		110C
+MJ19TYN	rgwebb	QST-WD-0292	Microsoft Windows 7 Professional x64	110B	5/31/2016 1:38	LENOVO	3212BJ7	AD\rgwebb	12/9/2013 0:00	11/28/2017 0:00	rgwebb	Secondary		110B
+MJ19TZD	istds-admin	QST-WD-0285	Microsoft Windows 7 Professional x64	112E	6/16/2016 13:53	LENOVO	3212BJ7	QST-WD-0285\istds-admin	12/9/2013 0:00	11/28/2017 0:00	atristan	Secondary		112E
+MJ19TYX	smgcrcws	QST-WD-0281	Microsoft Windows 7 Professional x64	110	10/1/2016 18:16	LENOVO	3212BJ7	AD\smgcrcws	12/9/2013 0:00	11/28/2017 0:00	matychak	Shared		110
+MJ19TYR	marjoun	QST-WD-0330	Microsoft Windows 10 Enterprise x64	122	7/8/2016 14:59	LENOVO	3212BJ7	AD\marjoun	12/9/2013 0:00	11/28/2017 0:00	gbmann	Primary		122
+MJ19TZC	jmoutar	QST-WD-0253	Microsoft Windows 7 Professional x64	132	5/29/2016 6:54	LENOVO	3212BJ7	AD\jmoutar	11/29/2013 0:00	11/28/2017 0:00	kparry	Primary		132
+PC0CSUGL	mglennon	QST-WL-0274	Microsoft Windows 10 Enterprise x64	112C	10/1/2016 3:01	LENOVO	20FAS1MA00	AD\mglennon	5/25/2016 0:00	5/24/2020 0:00	mglennon	Primary		112C
+PC0CSUG5	ksun13	QST-WL-0296	Microsoft Windows 10 Enterprise x64	110A	9/30/2016 15:51	LENOVO	20FAS1MA00	AD\ksun13	5/25/2016 0:00	5/24/2020 0:00	ivankap	Primary		110A
+PC0CSUGH	pcollins	QST-WL-0293	Microsoft Windows 10 Enterprise x64	110A	9/29/2016 14:25	LENOVO	20FAS1MA00	AD\pcollins	5/25/2016 0:00	5/24/2020 0:00	pcollins	Primary		110A
+PC0CSUGG	ccabezas	QST-WL-0292	Microsoft Windows 10 Enterprise x64	123	9/30/2016 16:28	LENOVO	20FAS1MA00	AD\ccabezas	5/25/2016 0:00	5/24/2020 0:00	ccabezas	Primary		123
+PC0CSUG9	josephfs	QST-WL-0281	Microsoft Windows 10 Enterprise x64	110C	9/30/2016 16:48	LENOVO	20FAS1MA00	AD\josephfs	5/25/2016 0:00	5/24/2020 0:00	josephfs	Primary		110C
+PC0CSUGF	rgwebb	QST-WL-0286	Microsoft Windows 10 Enterprise x64	110B	9/30/2016 17:06	LENOVO	20FAS1MA00	AD\rgwebb	5/25/2016 0:00	5/24/2020 0:00	rgwebb	Primary		110B
+PC0CSUGC	ksun13	QST-WL-0287	Microsoft Windows 10 Enterprise x64	112E	9/30/2016 14:55	LENOVO	20FAS1MA00	AD\ksun13	5/25/2016 0:00	5/24/2020 0:00	atristan	Primary		112E
+PC0CSUGP	smgcrcws	QST-WL-0288	Microsoft Windows 10 Enterprise x64	112A	9/27/2016 12:23	LENOVO	20FAS1MA00	AD\smgcrcws	5/25/2016 0:00	5/24/2020 0:00	rsharit	Primary		112A
+PC0CSUGR	dvariti	QST-WL-0277	Microsoft Windows 10 Enterprise x64	112D	9/30/2016 20:09	LENOVO	20FAS1MA00	AD\dvariti	5/25/2016 0:00	5/24/2020 0:00	dvariti	Primary		112D
+R9W1P56	scjarvis	QST-WL-0249	Microsoft Windows 7 Enterprise x64	506A	9/30/2016 14:52	LENOVO	2355BE3	AD\scjarvis	12/21/2012 0:00	12/11/2016 0:00	scjarvis	Primary		506A
+MJYWCC0	bfinney	QST-WD-0242	Microsoft Windows 7 Enterprise x64	416B	10/1/2016 18:43	LENOVO	4524A61	AD\bfinney	7/10/2011 0:00	7/9/2015 0:00	bfinney	Primary		416B
+MJDCPGR	nardizzi	QST-WD-0300	Microsoft Windows 7 Professional x64	416	10/1/2016 18:05	LENOVO	4524WED	AD\smgelcws	11/7/2011 0:00	10/27/2015 0:00	nardizzi	Primary		416
+MJDCPGP	cwaldvog	QST-WD-0298	Microsoft Windows 7 Professional x64	416H	10/1/2016 18:33	LENOVO	4524WED	AD\cwaldvog	11/7/2011 0:00	10/27/2015 0:00	cwaldvog	Primary		416H
+MJ53VB0	questromexec	QST-WD-0159	Microsoft Windows 7 Enterprise x64	416	10/1/2016 18:42	LENOVO	3237C64	AD\questromexec	10/2/2013 0:00	9/21/2017 0:00	jlehrich	Shared		416
+MJ00LCNM	kyunker	QST-WD-0299	Microsoft Windows 7 Professional x64	416 H	10/1/2016 18:59	LENOVO	10A6A03RUS	AD\kyunker	4/4/2014 0:00	4/3/2018 0:00	kyunker	Primary		416 H
+PF01B12L	pjacob	QST-WL-0245	Microsoft Windows 7 Enterprise x64	416 E	10/1/2016 14:59	LENOVO	20B7A05GUS	AD\pjacob	4/9/2014 0:00	4/8/2018 0:00	pjacob	Secondary		416 E
+MJ006UD5	smgelcws	QST-WD-0207	Microsoft Windows 7 Enterprise x64	416S	10/1/2016 18:05	LENOVO	30A2A038US	AD\smgelcws	1/14/2014 0:00	1/13/2018 0:00	jlehrich	Shared		416S
+MJ006KEH	smgelcws	QST-WD-0208	Microsoft Windows 7 Enterprise x64	416S	10/1/2016 19:56	LENOVO	30A2A038US	AD\smgelcws	1/9/2014 0:00	1/8/2018 0:00	jlehrich	Shared		416S
+MJ01DGDC	kcc	QST-WD-0224	Microsoft Windows 7 Professional x64	416C	10/1/2016 18:04	LENOVO	10A6S07J00	AD\kcc	8/30/2014 0:00	8/29/2018 0:00	kcc	Primary		416C
+C02M92BPF8J4	pjacob	SMG416EMAC-2	Mac OS X 10.11.6 (x86_64)	416E	9/30/2016 19:37	"Apple, Inc."	"iMac14,2"		3/20/2014 0:00	3/19/2017 0:00	pjacob	Primary		416E
+MJ45F6D	smgelcws	QST-WD-0296	Microsoft Windows 7 Enterprise x64	416	10/1/2016 18:06	LENOVO	3212BJ7	AD\smgelcws	7/22/2013 0:00	7/21/2017 0:00	jlehrich	Shared		416
+C02NXM6EFY11	yjortiz	QST-MD-0101	Mac OS X 10.10.5 (x86_64)	416E	10/1/2016 13:24	"Apple, Inc."	"iMac15,1"		6/10/2015 0:00	6/9/2018 0:00	pjacob	Shared		416E
+PC06MHXZ	olsenm	QST-WL-0240	Microsoft Windows 7 Enterprise x64	416B	9/29/2016 21:46	LENOVO	20BWS2SS00	AD\olsenm	7/30/2015 0:00	7/29/2019 0:00	olsenm	Primary		416B
+R90JAMM9	mjurgens	QST-WL-0255	Microsoft Windows 7 Enterprise x64	416A	10/1/2016 14:38	LENOVO	20BTS2BL00	AD\mjurgens	12/14/2015 0:00	12/13/2019 0:00	mjurgens	Primary		416A
+MJ03VVL9	questromexec	QST-WD-0152	Microsoft Windows 10 Enterprise x64	416M	10/1/2016 19:59	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416M
+MJ03VVLJ	questromexec	QST-WD-0151	Microsoft Windows 10 Enterprise x64	416L	10/1/2016 19:49	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416L
+MJ03VVLF	questromexec	QST-WD-0150	Microsoft Windows 10 Enterprise x64	416 K	10/1/2016 19:16	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416 K
+MJ03VVLB	questromexec	QST-WD-0153	Microsoft Windows 10 Enterprise x64	416N	10/1/2016 19:16	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416N
+MJ03VVLC	bdupee	QST-WD-0154	Microsoft Windows 10 Enterprise x64	416 O	10/1/2016 19:17	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416 O
+MJ03VVLE	questromexec	QST-WD-0155	Microsoft Windows 10 Enterprise x64	416 P	10/1/2016 19:14	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416 P
+MJ03VVLA	questromexec	QST-WD-0157	Microsoft Windows 10 Enterprise x64	416 R	9/25/2016 11:58	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416 R
+MJ03VVLH	mburrage	QST-WD-0156	Microsoft Windows 10 Enterprise x64	416Q	9/28/2016 16:11	LENOVO	10FLS2JV00	AD\mburrage	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416Q
+MJ03VVLD	questromexec	QST-WD-0158	Microsoft Windows 10 Enterprise x64	416T	10/1/2016 19:18	LENOVO	10FLS2JV00	AD\questromexec	5/3/2016 0:00	5/2/2020 0:00	jlehrich	Shared		416T
+PC0FAK9Y	jrco	QST-WL-0308	Microsoft Windows 10 Enterprise x64	416D	9/29/2016 14:43	LENOVO	20FAS1MA00	AD\jrco	11/30/-001 00:00:00	11/30/-001 00:00:00	jrco	Primary		416D
+MJ00ERMM	lzelman	QST-WD-0216	Microsoft Windows 7 Professional x64	422E	10/1/2016 18:53	LENOVO	10A6A03RUS	AD\lzelman	3/4/2014 0:00	3/3/2018 0:00	lzelman	Primary		422E
+MJ017GFB	mrisamin	QST-WD-0215	Microsoft Windows 7 Enterprise x64	422B	10/1/2016 18:03	LENOVO	10A6S07J00	AD\mrisamin	7/23/2014 0:00	7/22/2018 0:00	mrisamin	Primary		422B
+MJ02L04Y	sharper	QST-WD-0213	Microsoft Windows 7 Enterprise x64	422C	10/1/2016 19:28	LENOVO	10A6S25900	AD\sharper	6/9/2015 0:00	6/8/2019 0:00	sharper	Primary		422C
+MJ0280FV	reginaf	QST-WD-0304	Microsoft Windows 7 Enterprise x64	422D	10/1/2016 19:55	LENOVO	10A6S1J000	AD\reginaf	3/6/2015 0:00	3/5/2019 0:00	reginaf	Primary		422D
+R9K4V1E	kylemac	SMG112ELT-4	Microsoft Windows 7 Professional x64	102D	9/30/2016 15:14	LENOVO	4291ZC3	AD\kylemac	12/5/2011 0:00	12/4/2015 0:00	kylemac	Primary		102D
+R9WXH20	seanf49	SMG110CLT	Microsoft Windows 7 Enterprise x64	101D	9/29/2016 18:48	LENOVO	2324EB4	AD\seanf49	2/8/2013 0:00	1/29/2017 0:00	seanf49	Secondary		101D
+MJ762AR	seanf49	QST-WD-0276	Microsoft Windows 7 Professional x64	101D	10/1/2016 19:08	LENOVO	36901K3	AD\seanf49	5/26/2013 0:00	5/15/2017 0:00	seanf49	Primary		101D
+PF02TU4P	mfhowe	QST-WL-0218	Microsoft Windows 7 Enterprise x64	Room 102A	9/29/2016 12:11	LENOVO	20ARS0DM00	AD\mfhowe	7/21/2014 0:00	7/20/2018 0:00	mfhowe	Primary		Room 102A
+MJ017FYP	abunnell	QST-WD-0274	Microsoft Windows 7 Enterprise x64	101G	10/1/2016 19:11	LENOVO	10A6S07J00	AD\abunnell	7/23/2014 0:00	7/22/2018 0:00	abunnell	Primary		101G
+PF02UHUU	dubovik	SMG112ALT-1	Microsoft Windows 7 Enterprise x64	101E	9/30/2016 19:16	LENOVO	20ARS0DM00	AD\dubovik	7/21/2014 0:00	7/20/2018 0:00	dubovik	Primary		101E
+MJ017FYL	adrianae	QST-WD-0272	Microsoft Windows 7 Enterprise x64	102	10/1/2016 18:50	LENOVO	10A6S07J00	AD\adrianae	7/23/2014 0:00	7/22/2018 0:00	mcsiegel	Shared		102
+MJ017FYM	lmruano	QST-WD-0275	Microsoft Windows 7 Enterprise x64	101D	10/1/2016 18:44	LENOVO	10A6S07J00	AD\lmruano	7/23/2014 0:00	7/22/2018 0:00	lmruano	Primary		101D
+MJ017FYN	crabidou	QST-WD-0273	Microsoft Windows 7 Enterprise x64	101F	7/27/2016 8:01	LENOVO	10A6S07J00	AD\crabidou	7/23/2014 0:00	7/22/2018 0:00	crabidou	Primary		101F
+PC029NKR	jencohn	SMG110CLT-1	Microsoft Windows 7 Enterprise x64	102B	9/14/2016 15:06	LENOVO	20ARS0DM00	AD\jencohn	12/7/2014 0:00	12/6/2018 0:00	jencohn	Primary		102B
+R90G4TVY	mcsiegel	QST-WL-0204	Microsoft Windows 7 Enterprise x64	101B	9/30/2016 9:26	LENOVO	20BTS2BL00	AD\mcsiegel	6/4/2015 0:00	6/3/2019 0:00	mcsiegel	Primary		101B
+PC05NL6D	morganm	QST-WL-0207	Microsoft Windows 10 Enterprise x64	102C	10/1/2016 18:49	LENOVO	20BWS2CS00	AD\morganm	6/14/2015 0:00	6/13/2019 0:00	morganm	Primary		102C
+PC0E00QT	nsanange	QST-WL-0303	Microsoft Windows 10 Enterprise x64	101G	9/30/2016 12:58	LENOVO	20FAS1MA00	AD\nsanange	7/16/2016 0:00	7/15/2020 0:00	nsanange	Primary		101G
+MJTLDEW	keanew	QST-WD-0269	Microsoft Windows 7 Professional x64	119A	6/15/2016 15:12	LENOVO	3212AV7	AD\keanew	9/17/2012 0:00	9/7/2016 0:00	keanew	Secondary		119A
+MJTLDET	istds-admin	QST-WD-0263	Microsoft Windows 7 Professional x64	104E	3/28/2016 13:22	LENOVO	3212AV7	QST-WD-0263\istds-admin	9/17/2012 0:00	9/7/2016 0:00	emilyfl	Shared		104E
+MJTLDEV	morganm	QST-WD-0270	Microsoft Windows 7 Professional x64	115	6/2/2016 13:24	LENOVO	3212AV7	AD\morganm	9/17/2012 0:00	9/7/2016 0:00	kphillip	Shared		115
+MJTLDEP	nmmelton	QST-WD-0265	Microsoft Windows 7 Professional x64	126	10/1/2016 19:11	LENOVO	3212AV7	AD\nmmelton	9/17/2012 0:00	9/7/2016 0:00	nmmelton	Primary		126
+MJTMZGY	spbuote	QST-WD-0260	Microsoft Windows 7 Enterprise x64	Front Desk: Room 115	10/1/2016 19:33	LENOVO	3212AV7	AD\spbuote	9/17/2012 0:00	9/7/2016 0:00	kphillip	Shared		Front Desk: Room 115
+MJTMZGW	istds-admin	QST-WD-0261	Microsoft Windows 7 Professional x64	124A	6/10/2016 9:26	LENOVO	3212AV7	QST-WD-0261\istds-admin	9/17/2012 0:00	9/7/2016 0:00	bczar	Secondary		124A
+MJTMZGZ	ginah	QST-WD-0251	Microsoft Windows 7 Professional x64	120	6/9/2016 11:33	LENOVO	3212AV7	AD\ginah	9/17/2012 0:00	9/7/2016 0:00	ginah	Secondary		120
+MJ57AD1	wjorns	QST-WD-0264	Microsoft Windows 7 Enterprise x64	124B	6/15/2016 14:30	LENOVO	3212BJ7	AD\wjorns	10/4/2013 0:00	9/23/2017 0:00	wjorns	Secondary		124B
+MJTLDER	cbmoody	QST-WD-0256	Microsoft Windows 7 Professional x64	132	4/8/2016 1:28	LENOVO	3212AV7	AD\cbmoody	9/8/2012 0:00	9/7/2016 0:00	cbmoody	Secondary		132
+MJ00ERML	gradcenterws	QST-WD-0323	Microsoft Windows 7 Professional x64	104	10/1/2016 19:27	LENOVO	10A6A03RUS	AD\gradcenterws	3/4/2014 0:00	3/3/2018 0:00	normanb	Shared		104
+PC07QYP2	abello	QST-WL-0242	Microsoft Windows 7 Enterprise x64	133	10/1/2016 18:20	LENOVO	20BWS2SS00	AD\abello	9/16/2015 0:00	9/15/2019 0:00	abello	Primary		133
+R90JL2X5	kphillip	QST-WL-0258	Microsoft Windows 7 Enterprise x64	115B	9/30/2016 14:51	LENOVO	20BTS2BL00	AD\kphillip	1/11/2016 0:00	1/10/2020 0:00	kphillip	Primary		115B
+PC0BAJ3M	emilyfl	QST-WL-0263	Microsoft Windows 10 Enterprise x64	116	10/1/2016 14:21	LENOVO	20BWS2CS00	AD\emilyfl	3/18/2016 0:00	3/17/2020 0:00	emilyfl	Primary		116
+PC0BAJ3N	mwyrodek	QST-WL-0264	Microsoft Windows 10 Enterprise x64	118	9/30/2016 16:59	LENOVO	20BWS2CS00	AD\mwyrodek	3/18/2016 0:00	3/17/2020 0:00	mwyrodek	Primary		118
+PC0CSUJB	rosek	QST-WL-0275	Microsoft Windows 10 Enterprise x64	117	10/1/2016 18:11	LENOVO	20FAS1MA00	AD\rosek	5/25/2016 0:00	5/24/2020 0:00	rosek	Primary		117
+PC0CSUG7	sallyj	QST-WL-0278	Microsoft Windows 10 Enterprise x64	130	10/1/2016 19:23	LENOVO	20FAS1MA00	AD\sallyj	5/25/2016 0:00	5/24/2020 0:00	sallyj	Primary		130
+PC0CSUGK	ginah	QST-WL-0283	Microsoft Windows 10 Enterprise x64	120	9/30/2016 15:34	LENOVO	20FAS1MA00	AD\ginah	5/25/2016 0:00	5/24/2020 0:00	ginah	Primary		120
+PC0CSUGD	bczar	QST-WL-0284	Microsoft Windows 10 Enterprise x64	124A	9/30/2016 15:24	LENOVO	20FAS1MA00	AD\bczar	5/25/2016 0:00	5/24/2020 0:00	bczar	Primary		124A
+PC0CSUGN	gbmann	QST-WL-0291	Microsoft Windows 10 Enterprise x64	122	10/1/2016 16:06	LENOVO	20FAS1MA00	AD\gbmann	5/25/2016 0:00	5/24/2020 0:00	gbmann	Primary		122
+PC0CSUG6	wjorns	QST-WL-0297	Microsoft Windows 10 Enterprise x64	124B	9/29/2016 15:31	LENOVO	20FAS1MA00	AD\wjorns	5/25/2016 0:00	5/24/2020 0:00	wjorns	Primary		124B
+PC0CSUGQ	mlorello	QST-WL-0282	Microsoft Windows 10 Enterprise x64	119	9/30/2016 15:34	LENOVO	20FAS1MA00	AD\mlorello	5/25/2016 0:00	5/24/2020 0:00	mlorello	Primary		119
+PC0CSUGE	cbmoody	QST-WL-0298	Microsoft Windows 10 Enterprise x64	132	9/30/2016 15:48	LENOVO	20FAS1MA00	AD\cbmoody	5/25/2016 0:00	5/24/2020 0:00	cbmoody	Primary		132
+PC0CSUGA	keanew	QST-WL-0289	Microsoft Windows 10 Enterprise x64	119A	9/22/2016 14:11	LENOVO	20FAS1MA00	AD\keanew	5/25/2016 0:00	5/24/2020 0:00	keanew	Primary		119A
+PC0SCUG8	suschkiv	QST-WL-0272	Microsoft Windows 10 Enterprise x64	121	9/30/2016 11:11	LENOVO	20FAS1MA11	AD\suschkiv	5/25/2016 0:00	5/24/2020 0:00	suschkiv	Primary		121
+PC0D2NL8	toddb	QST-WL-0302	Microsoft Windows 10 Enterprise x64	134	10/1/2016 18:02	LENOVO	20FAS1MA00	AD\toddb	6/6/2016 0:00	6/5/2020 0:00	toddb	Primary		134
+R9FFN2A	cmplayer	QST-BSR-WL-0101	Microsoft Windows 7 Enterprise x64	208	8/16/2016 12:35	LENOVO	4291G96	AD\cmplayer	8/25/2011 0:00	8/24/2015 0:00	cmplayer	Secondary		208
+MJXAAR8	cmplayer	QST-BSR-WD-0100	Microsoft Windows 7 Enterprise x64	53 Bay State Rd 2nd floor	10/1/2016 18:55	LENOVO	4524A61	AD\cmplayer	6/6/2011 0:00	6/15/2015 0:00	jhorwitt	Shared		53 Bay State Rd 2nd floor
+MJPBXNV	tbwings	QST-BSR-WD-0101	Microsoft Windows 7 Enterprise x64	53 Bay State Rd 2nd floor	10/1/2016 19:37	LENOVO	4524AY5	AD\tbwings	6/26/2012 0:00	6/25/2016 0:00	jhorwitt	Shared		53 Bay State Rd 2nd floor
+2UA05023JT	bdupee	QST-WD-0345	Microsoft Windows 10 Enterprise x64	638A	10/1/2016 19:29	Hewlett-Packard	HP Z200 Workstation	AD\bdupee	12/21/2010 0:00	1/24/2016 0:00	bdupee	Secondary		638A
+MJ761XT	conroyrm	QST-WD-0322	Microsoft Windows 7 Enterprise x64	630B	4/8/2016 2:10	LENOVO	36901K3	AD\conroyrm	5/25/2013 0:00	5/14/2017 0:00	conroyrm	Primary		630B
+2UA05023JW	bdupee	SMG638A-7	Microsoft Windows 7 Professional x64	638A	4/21/2016 0:25	Hewlett-Packard	HP Z200 Workstation	AD\bdupee	12/21/2010 0:00	1/24/2016 0:00	bdupee	Secondary		638A
+MJ761YB	ali1	QST-WD-0317	Microsoft Windows 10 Enterprise x64	342	8/9/2016 14:45	LENOVO	36901K3	AD\ali1	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Reserve		342
+2UA05023JX	arashid	SMG630F-3	Microsoft Windows 7 Professional x64	630F	10/1/2016 18:01	Hewlett-Packard	HP Z200 Workstation	AD\arashid	12/21/2010 0:00	1/24/2016 0:00	arashid	Secondary		630F
+2UA05023JZ	kconroy	SMG629-7	Microsoft Windows 7 Professional x64	629	9/26/2016 16:06	Hewlett-Packard	HP Z200 Workstation	AD\kconroy	12/21/2010 0:00	1/24/2016 0:00	kconroy	Primary		629
+MJAHCAK	jkissh	SMG629-3	Microsoft Windows 10 Enterprise x64	629	12/18/2015 14:48	LENOVO	4158VG3	AD\jkissh	8/13/2011 0:00	8/12/2015 0:00	jkissh	Primary		629
+MJ761ZY	rnichols	QST-WD-SCANTRON	Microsoft Windows 10 Enterprise x64	626	10/1/2016 18:17	LENOVO	36901K3	AD\rnichols	5/26/2013 0:00	5/15/2017 0:00	firefox	Shared		626
+2UA05023JS	firefox	SMG630A-1	Microsoft Windows 10 Pro x64	630A	6/23/2016 1:36	Hewlett-Packard	HP Z200 Workstation	AD\firefox	12/21/2010 0:00	1/24/2016 0:00	firefox	Primary		630A
+MJ46M24	qstla	QST-WD-0039	Microsoft Windows 10 Enterprise x64	333	10/1/2016 18:02	LENOVO	36901K3	AD\qstla	6/21/2013 0:00	6/10/2017 0:00	gdefronz	shared		333
+R9Z02H7	qstcloud	QST-WL-0092	Microsoft Windows 10 Enterprise x64	340E	9/27/2016 17:53	LENOVO	2355BE3	AD\qstcloud	5/30/2013 0:00	5/29/2017 0:00	cbarrett	Loaner		340E
+2UA05023JR	istds-admin	SMG630E-2	Microsoft Windows 7 Professional x64	630E	12/8/2015 10:04	Hewlett-Packard	HP Z200 Workstation	SMG630E-2\istds-admin	12/21/2010 0:00	1/24/2016 0:00	seaholm	Secondary		630E
+D25FN0Q2DHJV	carla	QST-MD-0105	Mac OS X 10.10.5 (x86_64)	629	9/29/2016 16:32	"Apple, Inc."	"iMac12,2"		5/6/2011 0:00	5/5/2014 0:00	carla	Secondary		629
+PF02HMBZ	kesslerr	QST-WL-0261	Microsoft Windows 10 Enterprise x64	630C	9/30/2016 18:03	LENOVO	20AQCTO1WW	AD\kesslerr	11/30/-001 00:00:00	11/30/-001 00:00:00	kesslerr	Secondary		630C
+MJ761XZ	abel	QST-WD-0309	Microsoft Windows 7 Enterprise x64	342	5/3/2016 15:09	LENOVO	36901K3	AD\joellejf	5/15/2013 0:00	5/14/2017 0:00	gdefronz	Reserve		342
+C02NV1A1G3QP	bdupee	SMG638AMACLT-1	Mac OS X 10.11.6 (x86_64)	638A	10/1/2016 19:53	"Apple, Inc."	"MacBookPro11,3"		12/12/2014 0:00	12/11/2017 0:00	bdupee	Primary		638A
+D25FN0Q9DHJV	ali1	SMG630AMAC	Mac OS X 10.10.1 (x86_64)	630A	1/6/2015 10:23	"Apple, Inc."	"iMac12,2"		5/6/2011 0:00	5/5/2014 0:00	firefox	Secondary		630A
+MJ02KCR	firefox	SMG630A	Microsoft Windows 10 Pro x64	630A	10/1/2016 19:44	LENOVO	36901K3	AD\firefox	10/31/2013 0:00	10/30/2017 0:00	firefox	Secondary		630A
+MJ02WC6B	hannaway	QST-WD-0328	Microsoft Windows 7 Enterprise x64	630D	10/1/2016 19:10	LENOVO	10A6S25900	AD\hannaway	8/18/2015 0:00	8/17/2019 0:00	hannaway	Primary		630D
+D25RD04DGG7V	root	QST-MD-0114	Mac OS X 10.11.6 (x86_64)	630F	9/30/2016 21:59	"Apple, Inc."	"iMac17,1"		3/16/2016 0:00	3/15/2019 0:00	arashid	Primary		630F
+C1MNVKC9DTY3	qstcloud	qst-ml-0006	Mac OS X 10.11.4 (x86_64)	340E	8/20/2016 19:04	"Apple, Inc."	"MacBookPro9,2"		2/6/2015 0:00	2/5/2018 0:00	cbarrett	Loaner		340E
+PC0DBM0J	smesnik	QST-WL-0091	Microsoft Windows 10 Enterprise x64	340E	9/29/2016 16:43	LENOVO	20FAS1MA00	AD\smesnik	6/16/2016 0:00	6/15/2020 0:00	cbarrett	Loaner		340E
+D25H51CNDHJW	arashid	QST-MD-0126	Mac OS X 10.11.6 (x86_64)	630F	10/1/2016 19:31	"Apple, Inc."	"iMac12,2"		2/6/2012 0:00	2/5/2013 0:00	arashid	Secondary		630F
+	smgkiosk	QST-WK-0008	Microsoft Windows 7 Professional	Second Floor : Starbucks	10/1/2016 19:48	Intel	D33217GK	AD\smgkiosk	11/30/-001 00:00:00	11/30/-001 00:00:00	gdefronz	Kiosk		Second Floor : Starbucks
+D25RJ0L0GG7V	mwilcke	QST-MD-0116	Mac OS X 10.11.6 (x86_64)	514A	9/30/2016 16:51	"Apple, Inc."	"iMac17,1"		4/8/2016 0:00	4/7/2019 0:00	mwilcke	Primary		514A
+C02M26W2F8J4	supriyam	QST-MD-0129	Mac OS X 10.11.6 (x86_64)	510F	9/30/2016 15:11	"Apple, Inc."	"iMac14,2"		2/19/2014 0:00	2/18/2017 0:00	supriyam	Primary		510F
+C02KK03WDNCV	istds-admin	SMG508AMAC-1	Mac OS X 10.11.6 (x86_64)	510E	7/25/2016 18:36	"Apple, Inc."	"iMac13,2"		6/5/2013 0:00	6/4/2016 0:00	adean	Secondary		510E
+D25MX1RGF8JC	smgcomws	QST-MD-0127	Mac OS X 10.11.6 (x86_64)	510 D	10/1/2016 19:02	"Apple, Inc."	"iMac14,2"		7/9/2014 0:00	7/8/2017 0:00	adean	Shared		510 D
+MJ02STUV	susanley	QST-WD-0257	Microsoft Windows 7 Enterprise x64	510	9/29/2016 16:24	LENOVO	10A6S25900	AD\susanley	7/23/2015 0:00	7/22/2019 0:00	susanley	Primary		510
+D25RN0M6GG7V	chilly	QST-MD-0119	Mac OS X 10.11.6 (x86_64)	510D	10/1/2016 18:00	"Apple, Inc."	"iMac17,1"		5/9/2016 0:00	5/8/2019 0:00	chilly	Primary		510D
+MJ761YP	istds-admin	QST-WD-0369	Microsoft Windows 10 Enterprise x64	502B	10/1/2016 18:09	LENOVO	36901K3	.\istds-admin	5/26/2013 0:00	5/15/2017 0:00	mbda	Shared		502B
+MJYWGX2	jdupee	SMG506D-1	Microsoft Windows 7 Professional x64	5th	10/1/2016 18:36	LENOVO	4524A61	AD\jdupee	7/2/2011 0:00	7/1/2015 0:00	jdupee	Primary		5th
+MJYWGX0	kmgallag	QST-WD-0231	Microsoft Windows 7 Professional x64	502 D	10/1/2016 18:14	LENOVO	4524A61	AD\kmgallag	7/2/2011 0:00	7/1/2015 0:00	kmgallag	Primary		502 D
+R95ETGA	kfreeman	SMG508BLT	Microsoft Windows 7 Professional x64	5th	12/31/2015 14:05	LENOVO	32492UU	AD\kfreeman	8/6/2011 0:00	8/5/2014 0:00	kfreeman	Primary		5th
+MJ19TYT	rbaird8	QST-WD-0290	Microsoft Windows 10 Enterprise x64	504B	9/30/2016 15:46	LENOVO	3212BJ7	AD\rbaird8	12/9/2013 0:00	11/28/2017 0:00	mbda	Shared		504B
+MJ19TYM	smgadmws	QST-WD-0291	Microsoft Windows 10 Enterprise x64	504	9/30/2016 14:16	LENOVO	3212BJ7	AD\smgadmws	12/9/2013 0:00	11/28/2017 0:00	mbda	Shared		504
+MJ19TYW	sdeckard	SMG506C	Microsoft Windows 7 Enterprise x64	506C	9/30/2016 15:36	LENOVO	3212BJ7	AD\sdeckard	12/9/2013 0:00	11/28/2017 0:00	sdeckard	Primary		506C
+MJ00ERMN	mam	QST-WD-0236	Microsoft Windows 7 Professional x64	506	9/30/2016 15:16	LENOVO	10A6A03RUS	AD\mam	3/4/2014 0:00	3/3/2018 0:00	mam	Primary		506
+H021602DEUG	hudsonc	QST-MD-0112	Mac OS X 10.11.6 (x86_64)	504B	9/30/2016 15:24	"Apple, Inc."	"MacPro5,1"		4/24/2012 0:00	4/23/2015 0:00	hudsonc	Primary		504B
+C02N32T7G5RP	matychak	QST-ML-0012	Mac OS X 10.11.4 (x86_64)	150	9/30/2016 15:58	"Apple, Inc."	"MacBookAir6,2"		7/17/2014 0:00	7/16/2017 0:00	matychak	Secondary		150
+56368742953	sdavids2	QST-WL-0214	Microsoft Windows 8.1 Pro x64	5th	9/30/2016 20:44	Microsoft Corporation	Surface Pro 3	AD\sdavids2	10/17/2014 0:00	10/16/2016 0:00	sdavids2	Secondary		5th
+R9WW5VG	sdavids2	SMG506GLT-1	Microsoft Windows 7 Enterprise x64	5	10/1/2016 18:55	LENOVO	2355BE3	AD\sdavids2	1/25/2013 0:00	1/24/2017 0:00	sdavids2	Primary		5
+MJ01DGDE	telsey	QST-WD-0337	Microsoft Windows 7 Enterprise x64	504E	10/1/2016 18:20	LENOVO	10A6S07J00	AD\telsey	8/30/2014 0:00	8/29/2018 0:00	telsey	Primary		504E
+MJ01DGDB	joellejf	QST-WD-0232	Microsoft Windows 7 Enterprise x64	502D	9/29/2016 16:48	LENOVO	10A6S07J00	AD\joellejf	8/30/2014 0:00	8/29/2018 0:00	joellejf	Primary		502D
+R90FB7VH	kfreeman	QST-WL-0205	Microsoft Windows 7 Enterprise x64	205	10/1/2016 17:12	LENOVO	20A8S2PA00	AD\kfreeman	3/6/2015 0:00	3/5/2019 0:00	kfreeman	Secondary		205
+MJ0280FU	mburrage	QST-WD-0230	Microsoft Windows 7 Enterprise x64	506 F	9/30/2016 15:59	LENOVO	10A6S1J000	AD\mburrage	3/6/2015 0:00	3/5/2019 0:00	mburrage	Primary		506 F
+MJ02WC6A	megando	QST-WD-0324	Microsoft Windows 7 Enterprise x64	506E	10/1/2016 18:47	LENOVO	10A6S25900	AD\megando	8/18/2015 0:00	8/17/2019 0:00	megando	Primary		506E
+C02S70LYGG7N	ali1	Kenneths iMac	Mac OS X 10.11.6 (x86_64)	Home	9/11/2016 17:03	"Apple, Inc."	"iMac17,1"		8/25/2016 0:00	8/24/2019 0:00	kfreeman	Secondary		Home
+MJZRBCX	questromudc	QST-WD-0266	Microsoft Windows 10 Enterprise x64	104	10/1/2016 19:54	LENOVO	3212BJ7	AD\questromudc	9/17/2012 0:00	9/7/2016 0:00	rreiser	Shared		104
+MJ762AB	questromudc	QST-WD-0366	Microsoft Windows 10 Enterprise x64	104	10/1/2016 19:26	LENOVO	36901K3	AD\questromudc	5/26/2013 0:00	5/15/2017 0:00	rreiser	Shared		104
+PF008RN4	edweck	QST-WL-0247	Microsoft Windows 7 Enterprise x64	104H	9/30/2016 16:00	LENOVO	20ARA05BUS	AD\edweck	12/12/2013 0:00	12/11/2017 0:00	edweck	Primary		104H
+R9ZP6A0	questromudc	QST-WL-0307	Microsoft Windows 10 Enterprise x64	104	9/30/2016 15:55	LENOVO	3448AR2	AD\questromudc	7/14/2013 0:00	7/3/2017 0:00	rreiser	Shared		104
+PC06C7G7	rdaroff	QST-WL-0221	Microsoft Windows 7 Enterprise x64	104I	9/27/2016 16:03	LENOVO	20BWS2SS00	AD\rdaroff	7/15/2015 0:00	7/14/2019 0:00	rdaroff	Primary		104I
+PC06C7GE	lkatz	QST-WL-0222	Microsoft Windows 7 Enterprise x64	104R	10/1/2016 18:38	LENOVO	20BWS2SS00	AD\lkatz	7/15/2015 0:00	7/14/2019 0:00	lkatz	Primary		104R
+PC06C7G8	dorise	QST-WL-0223	Microsoft Windows 7 Enterprise x64	104T	9/30/2016 17:09	LENOVO	20BWS2SS00	AD\dorise	7/15/2015 0:00	7/14/2019 0:00	dorise	Primary		104T
+PC06C7GC	econcann	QST-WL-0224	Microsoft Windows 7 Enterprise x64	104	10/1/2016 18:22	LENOVO	20BWS2SS00	AD\econcann	7/15/2015 0:00	7/14/2019 0:00	econcann	Primary		104
+PC06C7G9	seward	QST-WL-0226	Microsoft Windows 7 Enterprise x64	104P	9/30/2016 15:46	LENOVO	20BWS2SS00	AD\seward	7/15/2015 0:00	7/14/2019 0:00	seward	Primary		104P
+PC06C7GJ	cyudin	QST-WL-0227	Microsoft Windows 7 Enterprise x64	104N	9/30/2016 17:41	LENOVO	20BWS2SS00	AD\cyudin	7/15/2015 0:00	7/14/2019 0:00	cyudin	Primary		104N
+PC06C7GD	faithn	QST-WL-0225	Microsoft Windows 7 Enterprise x64	104A	9/29/2016 2:06	LENOVO	20BWS2SS00	AD\faithn	7/15/2015 0:00	7/14/2019 0:00	faithn	Primary		104A
+PC06C7GF	kplescia	QST-WL-0228	Microsoft Windows 7 Enterprise x64	104C	10/1/2016 19:14	LENOVO	20BWS2SS00	AD\kplescia	7/15/2015 0:00	7/14/2019 0:00	kplescia	Primary		104C
+PC06C7GB	mmogan	QST-WL-0229	Microsoft Windows 10 Enterprise x64	104E	9/30/2016 15:31	LENOVO	20BWS2SS00	AD\mmogan	7/15/2015 0:00	7/14/2019 0:00	mmogan	Primary		104E
+PC06C7GG	bcolbert	QST-WL-0233	Microsoft Windows 7 Enterprise x64	104J Area (CUBICLE)	9/29/2016 15:14	LENOVO	20BWS2SS00	AD\bcolbert	7/15/2015 0:00	7/14/2019 0:00	bcolbert	Primary		104J Area (CUBICLE)
+C02QDVR0FVH5	rreiser	QST-ML-0224	Mac OS X 10.10.5 (x86_64)	104G	10/1/2016 3:01	"Apple, Inc."	"MacBookPro12,1"		9/15/2015 0:00	9/14/2018 0:00	rreiser	Primary		104G
+PC0CSUGJ	tharper	QST-WL-0294	Microsoft Windows 10 Enterprise x64	104Q	10/1/2016 19:35	LENOVO	20FAS1MA00	AD\tharper	5/25/2016 0:00	5/24/2020 0:00	tharper	Primary		104Q
+PC0CSUGB	racheld2	QST-WL-0295	Microsoft Windows 10 Enterprise x64	104B	9/30/2016 17:11	LENOVO	20FAS1MA00	AD\racheld2	5/25/2016 0:00	5/24/2020 0:00	racheld2	Primary		104B
+PC0CSUGS	vschroed	QST-WL-0285	Microsoft Windows 10 Enterprise x64	104L	9/30/2016 16:45	LENOVO	20FAS1MA00	AD\vschroed	5/25/2016 0:00	5/24/2020 0:00	vschroed	Primary		104L
+PC0D6RDR	rjohns	QST-WL-0313	Microsoft Windows 10 Enterprise x64	104T	10/1/2016 18:59	LENOVO	20FAS1MA00	AD\rjohns	6/11/2016 0:00	6/10/2020 0:00	rjohns	Primary		104T
+MJ02YR20	smgkiosk	QST-WK-0009	Microsoft Windows 10 Enterprise x64	104	10/1/2016 19:12	LENOVO	10AAS4GE00	AD\smgkiosk	11/30/-001 00:00:00	11/30/-001 00:00:00	rreiser	Kiosk		104
+MJ00LA11	rhuaman	QST-WD-0243	Microsoft Windows 10 Enterprise x64	518G	10/1/2016 18:20	LENOVO	10A6A03RUS	AD\rhuaman	4/3/2014 0:00	4/2/2018 0:00	rhuaman	Primary		518G
+PC0ESGLJ	mallan	QST-WL-0305	Microsoft Windows 10 Enterprise x64	515F	10/1/2016 19:57	LENOVO	20FAS1MA00	AD\mallan	8/22/2016 0:00	8/21/2020 0:00	mallan	Primary		515F
+R9NTA98	ksteir	QST-WL-0260	Microsoft Windows 7 Enterprise x64	551	10/1/2016 18:57	LENOVO	4174WK1	AD\ksteir	5/14/2012 0:00	5/23/2016 0:00	ksteir	Primary		551
+MJ761ZP	questromuser	OUR-HAR-212	Microsoft Windows 7 Professional x64	212	10/1/2016 18:48	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		212
+MJ761YZ	questromuser	QST-WD-0093	Microsoft Windows 7 Professional x64	406	10/1/2016 18:18	LENOVO	36901K3	AD\Aubrecht	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		406
+MJ761ZX	questromuser	QST-WD-0087	Microsoft Windows 7 Professional x64	314	10/1/2016 19:51	LENOVO	36901K3	AD\megando	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		314
+MJ762BT	smgelcws	QST-WD-0100	Microsoft Windows 7 Professional x64	420	9/27/2016 9:55	LENOVO	36901K3	AD\smgelcws	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		420
+MJ762BR	smgelcws	QST-WD-0097	Microsoft Windows 7 Professional x64	414	10/1/2016 18:12	LENOVO	36901K3	AD\smgelcws	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		414
+MJ761ZR	questromexec	QST-WD-0096	Microsoft Windows 7 Professional x64	412	10/1/2016 18:18	LENOVO	36901K3	AD\questromexec	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		412
+MJ762AH	questromuser	OUR-HAR-228	Microsoft Windows 7 Professional x64	228	10/1/2016 18:36	LENOVO	36901K3	AD\jchen829	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		228
+MJ27L25	lveidenh	OUR-HAR-315	Microsoft Windows 7 Professional x64	315	10/1/2016 19:21	LENOVO	36901K3	AD\lveidenh	6/18/2013 0:00	6/7/2017 0:00	gdefronz	classroom		315
+MJ27L24	jlazzara	OUR-HAR-426	Microsoft Windows 7 Professional x64	426	10/1/2016 18:27	LENOVO	36901K3	AD\jlazzara	6/18/2013 0:00	6/7/2017 0:00	gdefronz	classroom		426
+MJ761ZK	sqzhou15	OUR-HAR-310	Microsoft Windows 7 Professional x64	310	10/1/2016 18:50	LENOVO	36901K3	AD\elised	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		310
+MJ761ZB	dkurt	OUR-HAR-240	Microsoft Windows 7 Professional x64	240	10/1/2016 18:53	LENOVO	36901K3	AD\dkurt	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		240
+MJ762AG	vlaw20	OUR-HAR-211	Microsoft Windows 7 Professional x64	211	10/1/2016 18:13	LENOVO	36901K3	AD\vlaw20	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		211
+MJ762CA	weichuny	OUR-HAR-304	Microsoft Windows 7 Professional x64	304	10/1/2016 19:36	LENOVO	36901K3	AD\ren	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		304
+MJ762CT	questromexec	QST-WD-0098	Microsoft Windows 7 Professional x64	417	10/1/2016 18:35	LENOVO	36901K3	AD\questromexec	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		417
+MJ762CN	djsaxon	OUR-HAR-322	Microsoft Windows 7 Professional x64	322	10/1/2016 18:41	LENOVO	36901K3	AD\jdionne	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		322
+MJ762CM	frenchjd	OUR-HAR-324	Microsoft Windows 7 Professional x64	324	10/1/2016 18:43	LENOVO	36901K3	AD\frenchjd	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		324
+MJ762CG	jhibbard	OUR-HAR-302	Microsoft Windows 7 Professional x64	302	10/1/2016 18:01	LENOVO	36901K3	AD\jhibbard	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		302
+MJ762AY	questromuser	OUR-HAR-222	Microsoft Windows 7 Professional x64	222	10/1/2016 19:52	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		222
+MJ762AF	utopia	OUR-QST-SPARE	Microsoft Windows 7 Professional x64	342	3/9/2016 8:49	LENOVO	36901K3	OUR-QST-SPARE\istds-admin	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Spare		342
+MJ762CB	jdanders	QST-WD-0099	Microsoft Windows 7 Professional x64	419	10/1/2016 19:45	LENOVO	36901K3	AD\jdanders	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		419
+MJ762AZ	rpwilson	QST-WD-0101	Microsoft Windows 7 Professional x64	424	4/8/2016 2:00	LENOVO	36901K3	AD\rpwilson	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		424
+MJ02KCM	jheineke	QST-WD-0113	Microsoft Windows 7 Professional x64	658	10/1/2016 19:44	LENOVO	36901K3	AD\jheineke	10/31/2013 0:00	10/30/2017 0:00	gdefronz	Classroom		658
+MJ761YK	questromuser	OUR-HAR-105	Microsoft Windows 7 Professional x64	105	10/1/2016 18:21	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		105
+MJ762CX	jlin730	OUR-HAR-210	Microsoft Windows 7 Professional x64	210	10/1/2016 19:50	LENOVO	36901K3	AD\jlin730	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		210
+MJ762BX	tsimcoe	OUR-HAR-410	Microsoft Windows 7 Professional x64	410	10/1/2016 19:41	LENOVO	36901K3	AD\tsimcoe	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		410
+MJ762BN	questromuser	OUR-HAR-208	Microsoft Windows 7 Professional x64	208	10/1/2016 19:33	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		208
+MJ762BZ	earlride	OUR-HAR-312	Microsoft Windows 7 Professional x64	312	10/1/2016 18:28	LENOVO	36901K3	AD\earlride	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		312
+MJ762BF	frenchjd	OUR-HAR-404	Microsoft Windows 7 Professional x64	404	10/1/2016 19:43	LENOVO	36901K3	AD\frenchjd	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		404
+MJ762BM	bczar	QST-WD-0115	Microsoft Windows 7 Professional x64	508	10/1/2016 19:36	LENOVO	36901K3	AD\bczar	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		508
+MJ761ZC	carlile	OUR-HAR-316	Microsoft Windows 7 Professional x64	316	10/1/2016 18:13	LENOVO	36901K3	AD\carlile	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		316
+MJ761XX	questromuser	QST-WD-0160	Microsoft Windows 7 Professional x64	114	10/1/2016 18:03	LENOVO	36901K3	AD\munsell	5/25/2013 0:00	5/14/2017 0:00	gdefronz	Classroom		114
+MJ762AW	martinn	OUR-HAR-220	Microsoft Windows 7 Professional x64	220	10/1/2016 19:52	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		220
+MJ762BW	questromuser	OUR-HAR-408	Microsoft Windows 7 Professional x64	408	10/1/2016 18:27	LENOVO	36901K3	AD\questromuser	5/26/2013 0:00	5/15/2017 0:00	gdefronz	classroom		408
+MJ761ZT	golger	SMGMOBILE-13	Microsoft Windows 7 Professional x64		9/30/2016 16:45	LENOVO	36901K3	AD\golger	5/26/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		
+MJ761YN	scostich	OUR-HAR-224	Microsoft Windows 7 Professional x64	224	10/1/2016 19:54	LENOVO	36901K3	AD\scostich	5/16/2013 0:00	5/15/2017 0:00	gdefronz	classroom		224
+MJ762AE	questromuser	OUR-HAR-306	Microsoft Windows 7 Professional x64	306	10/1/2016 18:38	LENOVO	36901K3	AD\questromuser	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		306
+MJ762CL	questromuser	QST-WD-0130	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:57	LENOVO	36901K3	AD\questromuser	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		326
+MJ01SFNC	istds-admin	QST-WD-0147	Microsoft Windows 7 Enterprise x64	414	7/15/2016 13:28	LENOVO	10AAS33900	QST-WD-0147\istds-admin	11/25/2014 0:00	11/24/2018 0:00	gdefronz	Classroom		414
+MJ01SFNB	smguser	QST-WD-0146	Microsoft Windows 7 Enterprise x64	412	6/21/2016 16:35	LENOVO	10AAS33900	SMGCONF412\istds-admin	11/25/2014 0:00	11/24/2018 0:00	gdefronz	Classroom		412
+MJ762BP	albuquea	QST-WD-0114	Microsoft Windows 7 Professional x64	615	10/1/2016 19:56	LENOVO	36901K3	AD\albuquea	5/16/2013 0:00	5/15/2017 0:00	gdefronz	Classroom		615
+MJ02NSEG	questromexec	QST-WD-0185	Microsoft Windows 10 Enterprise x64	418	10/1/2016 18:10	LENOVO	10AAS4GE00	AD\questromexec	6/21/2015 0:00	6/20/2019 0:00	gdefronz	Shared		418
+MJ02YR1Z	questromuser	QST-WD-0131	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:22	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+MJ02YR21	questromuser	QST-WD-0133	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:56	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+MJ02YR23	questromuser	QST-WD-0134	Microsoft Windows 10 Enterprise x64	326	10/1/2016 18:10	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+MJ02YR24	questromuser	QST-WD-0135	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:17	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+MJ02YR22	questromuser	QST-WD-0136	Microsoft Windows 10 Enterprise x64	326	10/1/2016 19:01	LENOVO	10AAS4GE00	AD\questromuser	9/3/2015 0:00	9/2/2019 0:00	gdefronz	Classroom		326
+MJ036ZLP	Administrator	QST-WD-0181	Microsoft Windows 10 Enterprise x64		5/6/2016 12:59	LENOVO	10AAS4GE00	.\Administrator	11/6/2015 0:00	11/5/2019 0:00	gdefronz	Classroom		
+MJ03SF55	questromexec	QST-WD-0172	Microsoft Windows 10 Enterprise x64		10/1/2016 18:13	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF5B	questromexec	QST-WD-0176	Microsoft Windows 10 Enterprise x64		9/14/2016 16:44	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF5A	smgexec	QST-WD-0173	Microsoft Windows 10 Enterprise x64		10/1/2016 19:59	LENOVO	10FLS0E400	AD\smgexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF5C	questromexec	QST-WD-0174	Microsoft Windows 10 Enterprise x64		10/1/2016 9:34	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF5D	questromexec	QST-WD-0175	Microsoft Windows 10 Enterprise x64		10/1/2016 19:58	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF53	questromexec	QST-WD-0178	Microsoft Windows 10 Enterprise x64		9/27/2016 10:18	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF54	questromexec	QST-WD-0177	Microsoft Windows 10 Enterprise x64		9/27/2016 8:22	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF59	questromexec	QST-WD-0171	Microsoft Windows 10 Enterprise x64		10/1/2016 19:13	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF58	questromexec	QST-WD-0170	Microsoft Windows 10 Enterprise x64		10/1/2016 18:23	LENOVO	10FLS0E400	AD\smgexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		
+MJ03SF5E	questromexec	QST-WD-0179	Microsoft Windows 10 Enterprise x64		9/27/2016 9:45	LENOVO	10FLS0E400	AD\questromexec	4/5/2016 0:00	4/4/2020 0:00	gdefronz	Classroom		

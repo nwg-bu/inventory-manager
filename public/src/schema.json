@@ -1,0 +1,14 @@
+{
+	"title": "fac_staff",
+	"type": "object",
+	"properties": {
+		"buemail": { "type": "string" },
+		"lastName": { "type": "string"},
+		"firstName": {"type": "string"},
+		"buphone": {"type": "string",
+		"buroom": {"type": "string"},
+		"deptLong": {"type": "string"}
+	},
+	"required": ["buemail", "lastName", "firstName", "buphone", "buroom", "deptLong"]
+
+}
